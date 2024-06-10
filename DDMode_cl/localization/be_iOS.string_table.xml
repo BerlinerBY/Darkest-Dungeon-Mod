@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="belarusian">
+    <entry id="[iphone]menu_controls_category_0"><![CDATA[GENERAL]]></entry>
+    <entry id="[iphone]menu_controls_category_1"><![CDATA[TOWN]]></entry>
+    <entry id="[iphone]menu_controls_category_2"><![CDATA[QUEST]]></entry>
+    <entry id="[iphone]menu_controls_element_0_0"><![CDATA[A contextual help screen is available through the menu]]></entry>
+    <entry id="[iphone]menu_controls_element_1_0"><![CDATA[[LONG TOUCH] hero portrait to view hero character sheet]]></entry>
+    <entry id="[iphone]menu_controls_element_1_1"><![CDATA[[TAP] order button over roster to sort heroes]]></entry>
+    <entry id="[iphone]menu_controls_element_1_2"><![CDATA[Sort twice to invert order]]></entry>
+    <entry id="[iphone]menu_controls_element_2_0"><![CDATA[[TOUCH BEHIND THE PARTY] - Move Left]]></entry>
+    <entry id="[iphone]menu_controls_element_2_1"><![CDATA[[TOUCH AHEAD THE PARTY] - Move right]]></entry>
+    <entry id="[iphone]menu_controls_element_2_2"><![CDATA[[LONG TOUCH] hero to view hero character sheet]]></entry>
+    <entry id="[iphone]menu_controls_element_2_3"><![CDATA[[TOUCH] the light indicator to use torch.]]></entry>
+    <entry id="[iphone]menu_controls_element_2_4"><![CDATA[[SWIPE DOWN] the light indicator to lower light.]]></entry>
+    <entry id="[iphone]menu_options_element_tooltip_bark_dismissal"><![CDATA[[TOUCH] to dismiss hero word balloons.]]></entry>
+    <entry id="[iphone]provision_sell_back_info"><![CDATA[[TOUCH] inventory to sell back]]></entry>
+    <entry id="[iphone]realm_inventory_trinket_sell_instruction"><![CDATA[[LONG TOUCH] to select, [TAP] cross to sell.]]></entry>
+    <entry id="[iphone]str_discard_item_instructions"><![CDATA[[LONG TOUCH] on this item to discard it.]]></entry>
+    <entry id="[iphone]str_help_raid_camping_0"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on meal options to choose how much to eat. You are limited by how much food you have in inventory.]]></entry>
+    <entry id="[iphone]str_help_raid_camping_2"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on a hero and then {colour_start|town_activity_log_positive_result} [TOUCH]{colour_end} on their skill to use it. Some skills require a target to be selected.]]></entry>
+    <entry id="[iphone]str_help_raid_camping_3"><![CDATA[When done spending ACTION POINTS, {colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on REST to finish Camping.]]></entry>
+    <entry id="[iphone]str_help_raid_combat_0"><![CDATA[On hero's turn, {colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} a valid combat skill and then {colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} a target to act.]]></entry>
+    <entry id="[iphone]str_help_raid_combat_1"><![CDATA[Each skill has different requirements for where the hero needs to be standing and what enemies they can target. {colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} the skill to see the requirements.]]></entry>
+    <entry id="[iphone]str_help_raid_combat_2"><![CDATA[{colour_start|town_activity_log_positive_result}[LONG TOUCH]{colour_end} on enemies to see stats and chances to hit/damage/crit with currently selected skill.]]></entry>
+    <entry id="[iphone]str_help_raid_combat_3"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on Anti-Venom or Bandages in inventory to heal BLIGHT or BLEED on the current hero.]]></entry>
+    <entry id="[iphone]str_help_raid_combat_4"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on the retreat icon (looks like an "X") to attempt to retreat from the combat.]]></entry>
+    <entry id="[iphone]str_help_raid_combat_5"><![CDATA[{colour_start|town_activity_log_positive_result}[LONG TOUCH]{colour_end} on a hero to see their detailed character sheet.]]></entry>
+    <entry id="[iphone]str_help_raid_hallway_0"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH AHEAD THE PARTY]{colour_end} to walk forward, {colour_start|town_activity_log_positive_result}[TOUCH BEHIND THE PARTY] {colour_end} to walk backward.]]></entry>
+    <entry id="[iphone]str_help_raid_hallway_1"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on a hero's move skill to change their party position.]]></entry>
+    <entry id="[iphone]str_help_raid_hallway_2"><![CDATA[Entering Doors: When in front of a door, {colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on it]]></entry>
+    <entry id="[iphone]str_help_raid_hallway_3"><![CDATA[{colour_start|town_activity_log_positive_result}[PINCH]{colour_end} to zoom map and {colour_start|town_activity_log_positive_result}[DRAG]{colour_end} to pan map]]></entry>
+    <entry id="[iphone]str_help_raid_hallway_4"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on objects to interact with them. The selected hero will perform the interaction.]]></entry>
+    <entry id="[iphone]str_help_raid_hallway_5"><![CDATA[{colour_start|town_activity_log_positive_result}[LONG TOUCH]{colour_end} on a hero to see their detailed character sheet.]]></entry>
+    <entry id="[iphone]str_help_raid_hallway_6"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on the INVENTORY tab to examine supplies.]]></entry>
+    <entry id="[iphone]str_help_raid_hallway_7"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on the PERSONALITY tab to see the current hero's quirks and afflictions.]]></entry>
+    <entry id="[iphone]str_help_raid_hallway_8"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on the retreat icon (looks like an "X") to abandon the quest.]]></entry>
+    <entry id="[iphone]str_help_raid_hallway_9"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end}on a torch to use it from inventory.]]></entry>
+    <entry id="[iphone]str_help_raid_room_0"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on a room in the map to begin moving to that room.]]></entry>
+    <entry id="[iphone]str_help_raid_room_1"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on a hero to select them.]]></entry>
+    <entry id="[iphone]str_help_raid_room_2"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on a hero's move skill to change their party position.]]></entry>
+    <entry id="[iphone]str_help_raid_room_3"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on firewood in inventory (if you have any) to start CAMPING.]]></entry>
+    <entry id="[iphone]str_help_raid_room_4"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH AND KEEP]{colour_end} over the torch meter to see current light level and gameplay effects.]]></entry>
+    <entry id="[iphone]str_help_raid_room_5"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on the retreat icon (looks like an "X") to abandon the quest.]]></entry>
+    <entry id="[iphone]str_help_raid_room_6"><![CDATA[While interacting with an object: {colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} an inventory item to apply it to the object. Some items will yield positive effects.]]></entry>
+    <entry id="[iphone]str_help_raid_room_7"><![CDATA[{colour_start|town_activity_log_positive_result}[PINCH]{colour_end} to zoom map and {colour_start|town_activity_log_positive_result}[DRAG]{colour_end} to pan map]]></entry>
+    <entry id="[iphone]str_help_raid_room_8"><![CDATA[{colour_start|town_activity_log_positive_result}[LONG TOUCH]{colour_end} on a hero to see their detailed character sheet.]]></entry>
+    <entry id="[iphone]str_help_raid_room_9"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end}on a torch to use it from inventory.]]></entry>
+    <entry id="[iphone]str_help_town_0"><![CDATA[{colour_start|town_activity_log_positive_result}[LONG TOUCH]{colour_end} on a hero in the roster to inspect their detailed character sheet. They can be renamed or dismissed permanently from there.]]></entry>
+    <entry id="[iphone]str_help_town_1"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on buildings to use them to interact with your heroes.]]></entry>
+    <entry id="[iphone]str_help_town_abbey_0"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} the + icon to see upgrade options for this building.]]></entry>
+    <entry id="[iphone]str_help_town_abbey_6"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on the red X below to eject the hero from the building activity prematurely. You will not recover the money spent.]]></entry>
+    <entry id="[iphone]str_help_town_blacksmith_0"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} the + icon to see upgrade options for this building.]]></entry>
+    <entry id="[iphone]str_help_town_blacksmith_2"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on upgrades to purchase them. You may need to upgrade the Blacksmith before purchasing some hero upgrades.]]></entry>
+    <entry id="[iphone]str_help_town_camping_trainer_0"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} the + icon to see upgrade options for this building.]]></entry>
+    <entry id="[iphone]str_help_town_camping_trainer_1"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on a hero in your roster to load them into the Survivalist and see their camping skill upgrade options.]]></entry>
+    <entry id="[iphone]str_help_town_camping_trainer_2"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on skills or upgrades to purchase them. You may need to upgrade the Survivalist before purchasing some hero upgrades.]]></entry>
+    <entry id="[iphone]str_help_town_guild_0"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} the + icon to see upgrade options for this building.]]></entry>
+    <entry id="[iphone]str_help_town_guild_2"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on combat skills or combat skill upgrades to purchase them. You may need to upgrade the Guild before purchasing some hero upgrades.]]></entry>
+    <entry id="[iphone]str_help_town_nomad_wagon_0"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} the + icon to see upgrade options for this building.]]></entry>
+    <entry id="[iphone]str_help_town_nomad_wagon_1"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on available items to purchase them.]]></entry>
+    <entry id="[iphone]str_help_town_provision_0"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} items in the shop to purchase them for the expedition.]]></entry>
+    <entry id="[iphone]str_help_town_quest_select_0"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on available quests to inspect them.]]></entry>
+    <entry id="[iphone]str_help_town_quest_select_1"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on heroes or {colour_start|town_activity_log_positive_result}[DRAG] {colour_end} them into the party slots to form an adventuring party.]]></entry>
+    <entry id="[iphone]str_help_town_quest_select_4"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} PROVISION when ready to proceed.]]></entry>
+    <entry id="[iphone]str_help_town_sanitarium_0"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} the + icon to see upgrade options for this building.]]></entry>
+    <entry id="[iphone]str_help_town_sanitarium_5"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on the red X below to eject the hero from the building activity prematurely. You will not recover the money spent.]]></entry>
+    <entry id="[iphone]str_help_town_stage_coach_0"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} the + icon to see upgrade options for this building.]]></entry>
+    <entry id="[iphone]str_help_town_stage_coach_1"><![CDATA[{colour_start|town_activity_log_positive_result}[LONG TOUCH]{colour_end} on new heroes to inspect them.]]></entry>
+    <entry id="[iphone]str_help_town_tavern_0"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} the + icon to see upgrade options for this building.]]></entry>
+    <entry id="[iphone]str_help_town_tavern_6"><![CDATA[{colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on the red X below  to eject the hero from the building activity prematurely. You will not recover the money spent.]]></entry>
+    <entry id="[iphone]str_loading_screen_continue"><![CDATA[{colour_start|town_activity_log_positive_result} [TOUCH]{colour_end} the screen to Continue]]></entry>
+    <entry id="[iphone]str_reduce_torch_tip"><![CDATA[[SWIPE DOWN] to reduce torch]]></entry>
+    <entry id="[iphone]tutorial_popup_antivenom_description"><![CDATA[Your hero is {colour_start|pop_text_poison}blighted{colour_end}! If you wish, you can use {colour_start|notable}anti-venom{colour_end} from inventory to neutralize it. {colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on the {colour_start|notable}anti-venom{colour_end} while it's the injured hero's turn.]]></entry>
+    <entry id="[iphone]tutorial_popup_bandage_description"><![CDATA[Your hero is {colour_start|pop_text_bleed}bleeding{colour_end}! If you wish, you can use a {colour_start|notable}bandage{colour_end} from inventory to stop the flow. {colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on the {colour_start|notable}bandage{colour_end} while it's the injured hero's turn.]]></entry>
+    <entry id="[iphone]tutorial_popup_camping_quest_description"><![CDATA[This quest involves {colour_start|notable}Camping{colour_end}, and Camping requires {colour_start|notable}firewood{colour_end}. Firewood is {colour_start|notable}given automatically{colour_end} to you on appropriate quests. {colour_start|notable}Camping{colour_end} gives heroes a chance to {colour_start|notable}recuperate while in the dungeon{colour_end}. When you are wounded or {colour_start|stressNOT1}stressed{colour_end} and wish to camp, {colour_start|town_activity_log_positive_result} [TOUCH]{colour_end} on the firewood in your inventory.]]></entry>
+    <entry id="[iphone]tutorial_popup_combat_description"><![CDATA[Combat is {colour_start|notable}turn-based{colour_end}. On your hero's turn, {colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} a skill icon and then {colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on a highlighted target. If you can't select a particular skill, it's because that hero needs to be {colour_start|notable}standing in a different spot{colour_end} or there are {colour_start|notable}no valid targets{colour_end}. {colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} the skill to see the requirements.]]></entry>
+    <entry id="[iphone]tutorial_popup_curio_description"><![CDATA[While exploring, you will often find {colour_start|notable}interactive objects{colour_end}. {colour_start|town_activity_log_positive_result}[TOUCH] {colour_end}  to investigate them. Take a look at this tent...]]></entry>
+    <entry id="[iphone]tutorial_popup_disarm_trap_description"><![CDATA[Scouted {colour_start|trap}traps{colour_end} will be {colour_start|notable}visible on the ground{colour_end} as you approach them. Select a hero and then {colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on the {colour_start|trap}trap{colour_end} to attempt to {colour_start|notable}disarm it{colour_end}. Some heroes are better than others at disarming.]]></entry>
+    <entry id="[iPhone]tutorial_popup_embark_description"><![CDATA[There isn't much more you can do in town right now. It's time to EMBARK on a quest!
+
+Tap on the {colour_start|notable}[EMBARK]{colour_end} button at the bottom of the screen!]]></entry>
+    <entry id="[iphone]tutorial_popup_hallway_nav_description"><![CDATA[While in a {colour_start|notable}hallway{colour_end},{colour_start|town_activity_log_positive_result} [TOUCH AHEAD THE PARTY]{colour_end} to move forward, {colour_start|town_activity_log_positive_result} [TOUCH BEHIND THE PARTY]{colour_end} to move back.]]></entry>
+    <entry id="[iphone]tutorial_popup_hero_panel_description"><![CDATA[{colour_start|town_activity_log_positive_result}[LONG TOUCH]{colour_end} on a hero's {colour_start|notable}image or portrait{colour_end} at any time to bring up a detailed panel showing all of the hero's {colour_start|notable}quirks{colour_end}, {colour_start|notable}skills {colour_end}, and {colour_start|notable}resistances{colour_end}]]></entry>
+    <entry id="[iphone]tutorial_popup_loot_description"><![CDATA[Each item, if you take it, will occupy space in your inventory.
+
+{colour_start|notable}Hold your finger on{colour_end} items to show details about them. This works in your inventory, too!
+
+(Press {colour_start|town_activity_log_positive_result}the top right cross icon{colour_end} to close this window.)]]></entry>
+    <entry id="[iphone]tutorial_popup_map_camping_skills_description"><![CDATA[Heroes can only have {colour_start|notable}4 Camping skills active{colour_end} at a time. Toggle the skills on and off by touching on them.]]></entry>
+    <entry id="[iphone]tutorial_popup_map_nav_description"><![CDATA[You are currently in a {colour_start|notable}room{colour_end}. To move forth, {colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} on {colour_start|notable}another room{colour_end} on the {colour_start|notable}map display{colour_end}. This will take you to the {colour_start|notable}connecting hallway{colour_end}.]]></entry>
+    <entry id="[iphone]tutorial_popup_press_h_description"><![CDATA[On any screen in the game, touch the {colour_start|town_activity_log_positive_result}[HELP BUTTON]{colour_end} in the pause menu to see contextual help for controls in that mode. Try it while in town, exploring, fighting, camping and more.]]></entry>
+    <entry id="[iphone]tutorial_popup_quest_complete_description"><![CDATA[After you've completed the requirements of a quest, you have the option to {colour_start|notable}return to town{colour_end} at any time-- just {colour_start|notable}[TOUCH] the crest{colour_end}. You don't need to return to the starting room of the dungeon to exit.]]></entry>
+    <entry id="[iphone]tutorial_popup_quest_select_description"><![CDATA[This is where you select a quest and form an adventuring party of four heroes to embark on it. 
+
+{colour_start|notable}[TOUCH]{colour_end} on quests to see their details.
+
+{colour_start|notable}[DRAG]{colour_end} heroes into slots at the bottom of the screen to form your party and default party order.]]></entry>
+    <entry id="[iphone]tutorial_popup_scout_hidden_door_description"><![CDATA[A critical scouting success will sometimes reveal a {colour_start|notable}Secret Room{colour_end}! Advance to the tile marked with a star, and touch to enter. Fabulous wealth and riches await those equipped with a {colour_start|notable}key{colour_end}...]]></entry>
+    <entry id="[iphone]tutorial_popup_stage_coach2_description"><![CDATA[While you're here, spend some of your starting heirlooms on {colour_start|notable}upgrading the Stagecoach Network{colour_end}. This will increase the number of heroes available here in the future.
+
+To upgrade, touch the {colour_start|town_activity_log_positive_result}[+]{colour_end} symbol on the left, and then touch the upgrade.]]></entry>
+    <entry id="[iphone]tutorial_popup_torch_description"><![CDATA[The {colour_start|notable}light{colour_end} is fading! The current {colour_start|notable}torch level greatly affects many mechanics{colour_end} in the game. The darker it gets, the harder things get but the better the rewards. {colour_start|town_activity_log_positive_result}[TOUCH] {colour_end} on a torch from inventory to boost the light back up.]]></entry>
+    <entry id="[iphone]tutorial_popup_using_doors_description"><![CDATA[To enter a {colour_start|notable}door{colour_end}, {colour_start|town_activity_log_positive_result}[TOUCH]{colour_end} when standing in front of it.]]></entry>
+    <entry id="drobpox_choice_answer_export"><![CDATA[Export]]></entry>
+    <entry id="drobpox_choice_question"><![CDATA[Do you wish to export or import saved games with Dropbox?]]></entry>
+    <entry id="dropbox_choice_answer_import"><![CDATA[Import]]></entry>
+    <entry id="dropbox_copy_selected"><![CDATA[Copy]]></entry>
+    <entry id="dropbox_data_found"><![CDATA[The following save data has been found.]]></entry>
+    <entry id="dropbox_downloading"><![CDATA[Please wait. Downloading save data from Dropbox...]]></entry>
+    <entry id="dropbox_no_data_found"><![CDATA[No Dropbox save data found. Please check that your Dropbox /Apps/DarkestDungeon folder contains save data.]]></entry>
+    <entry id="dropbox_no_local_data"><![CDATA[No local saves found to upload.]]></entry>
+    <entry id="dropbox_not_enough_save_slots"><![CDATA[Not enough empty local save slots. Delete some local save data to be able to import dropbox saves.]]></entry>
+    <entry id="dropbox_upload_error"><![CDATA[There was an error trying to upload your saves.]]></entry>
+    <entry id="dropbox_uploading"><![CDATA[Please wait. Uploading save data to Dropbox...]]></entry>
+    <entry id="first_time_icloud_answer_no"><![CDATA[No.]]></entry>
+    <entry id="first_time_icloud_answer_yes"><![CDATA[Yes.]]></entry>
+    <entry id="first_time_icloud_question"><![CDATA[Do you want to activate iCloud for your save files?]]></entry>
+    <entry id="menu_options_element_icloud_enabled"><![CDATA[Enable iCloud Synchronization]]></entry>
+    <entry id="menu_options_element_tooltip_icloud_enabled"><![CDATA[With iCloud on, save data will be constantly backed up to the iCloud servers. This prevents data loss on application uninstall and allows you to continue your game on a different device.]]></entry>
+    <entry id="menu_options_element_right_handed"><![CDATA[Show tooltips to the left]]></entry>
+    <entry id="menu_options_element_tooltip_right_handed"><![CDATA[Setting this off will show tooltips to the right.]]></entry>
+    <entry id="menu_options_icloud_enable_answer_keep"><![CDATA[Upload local saves (dated %s)]]></entry>
+    <entry id="menu_options_icloud_enable_answer_update"><![CDATA[Download iCloud saves (dated %s)]]></entry>
+    <entry id="menu_options_icloud_enable_answer_update_ingame"><![CDATA[Use iCloud saves (this will restart the game)]]></entry>
+    <entry id="menu_options_icloud_enable_noconnect_question"><![CDATA[Use already existing iCloud saves or overwrite them with your local saves?]]></entry>
+    <entry id="menu_options_icloud_enable_question"><![CDATA[We have detected you already have save files dated %s in your iCloud. Download those or upload your current local saves?]]></entry>
+    <entry id="modal_icloud_no_connect_first"><![CDATA[WARNING: You are currently offline. 
+If you haven't recently played with any other device, choose "Enable iCloud". Backups will automatically start being uploaded as soon as connection is resumed.
+If you last played with a different device, and wish to continue your progress, choose "Disable iCloud" and exit the application. Connect your iPad to internet before starting it and enabling iCloud again.]]></entry>
+    <entry id="modal_icloud_no_connect_first_answer_enable"><![CDATA[Enable iCloud]]></entry>
+    <entry id="modal_icloud_no_connect_first_answer_disable"><![CDATA[Disable iCloud]]></entry>
+    <entry id="modal_icloud_no_connect_keep"><![CDATA[WARNING: You are currently offline. 
+Backups will automatically start being uploaded as soon as connection is resumed.]]></entry>
+    <entry id="modal_icloud_no_connect_update"><![CDATA[WARNING: You are currently offline. 
+If you haven't played with any other device nor logged out of your iCloud in this device, choose "Enable iCloud and Download iCloud saves". Backups will automatically start being uploaded as soon as connection is resumed.
+If you last played with a different device and wish to continue your progress, choose "Cancel" and exit the application. Connect your iPad to internet before starting it and enabling iCloud again.]]></entry>
+    <entry id="modal_icloud_no_connect_update_answer_ahead"><![CDATA[Enable iCloud and Download iCloud saves]]></entry>
+    <entry id="modal_icloud_no_connect_update_answer_cancel"><![CDATA[Cancel]]></entry>
+    <entry id="modal_icloud_syncing"><![CDATA[Syncing... (this operation may take a long time)]]></entry>
+    <entry id="modal_icloud_confirmation_dialog"><![CDATA[Are you sure you want to %s?]]></entry>
+  </language>
+</root>
+

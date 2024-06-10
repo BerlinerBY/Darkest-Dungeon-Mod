@@ -362,3 +362,7 @@ font_ref:   .id "skip_curio_text"                               .font "dwarven_a
 font_ref:   .id "wave_progress_tooltip"                         .font "ubuntu_small"
 font_ref:   .id "wave_countdown_count"                          .font "dwarven_axe_medium"
 font_ref:   .id "wave_kill_count"                               .font "dwarven_axe_medium"
+
+font_language_override: .language "belarusian" .font "dwarven_axe_medium" .file "fonts/belarus_dwarven_axe_m.fnt" .point_sample false
+font_language_override: .language "belarusian" .font "dwarven_axe_large" .file "fonts/belarus_dwarven_axe_l.fnt"  .point_sample false
+font_language_override: .language "belarusian" .font "popup" .file "fonts/belarus_popup.fnt" .point_sample false
