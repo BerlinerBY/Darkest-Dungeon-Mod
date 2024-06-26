@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="belarus">
+    <entry id="[xb1]hallway_shoulder_l"><![CDATA[(LB) Prev Hero]]></entry>
+    <entry id="[xb1]hallway_shoulder_r"><![CDATA[(RB) Next Hero]]></entry>
+    <entry id="[xb1]hallway_trigger_l"><![CDATA[(LT HOLD) Status Info]]></entry>
+    <entry id="[xb1]hallway_trigger_r"><![CDATA[(RT HOLD) Map Controls]]></entry>
+    <entry id="[xb1]hallway_start2"><![CDATA[Help]]></entry>
+    <entry id="[xb1]hallway_stick_r"><![CDATA[[CLICK] Abandon Quest]]></entry>
+    <entry id="[xb1]room_shoulder_l"><![CDATA[(LB) Prev Hero]]></entry>
+    <entry id="[xb1]room_shoulder_r"><![CDATA[(RB) Next Hero]]></entry>
+    <entry id="[xb1]room_trigger_l"><![CDATA[(LT HOLD) Status Info]]></entry>
+    <entry id="[xb1]room_trigger_r"><![CDATA[(RT HOLD) Map Controls]]></entry>
+    <entry id="[xb1]room_stick_r"><![CDATA[[CLICK] Abandon Quest]]></entry>
+    <entry id="[xb1]room_start2"><![CDATA[Help]]></entry>
+    <entry id="[xb1]combat_trigger_l"><![CDATA[(LT HOLD) Status Info]]></entry>
+    <entry id="[xb1]combat_trigger_r"><![CDATA[(RT HOLD) Map Controls]]></entry>
+    <entry id="[xb1]combat_stick_r"><![CDATA[[CLICK] Retreat]]></entry>
+    <entry id="[xb1]combat_start2"><![CDATA[Help]]></entry>
+    <entry id="[xb1]camping_shoulder_l"><![CDATA[(LB) Prev Hero]]></entry>
+    <entry id="[xb1]camping_shoulder_r"><![CDATA[(RB) Next Hero]]></entry>
+    <entry id="[xb1]camping_trigger_l"><![CDATA[(LT HOLD) Status Info]]></entry>
+    <entry id="[xb1]camping_trigger_r"><![CDATA[(RT HOLD) Map Controls]]></entry>
+    <entry id="[xb1]camping_stick_r"><![CDATA[[CLICK] Abandon Quest]]></entry>
+    <entry id="[xb1]camping_start2"><![CDATA[Help]]></entry>
+    <entry id="[xb1]town_shoulder_l"><![CDATA[(LB) Town Events]]></entry>
+    <entry id="[xb1]town_shoulder_r"><![CDATA[(RB) Activity Log]]></entry>
+    <entry id="[xb1]town_trigger_r"><![CDATA[(RT HOLD) Roster Focus]]></entry>
+    <entry id="[xb1]town_stick_l"><![CDATA[[CLICK] Heirloom Exchange]]></entry>
+    <entry id="[xb1]town_stick_r"><![CDATA[[CLICK] Embark]]></entry>
+    <entry id="[xb1]town_start2"><![CDATA[Help]]></entry>
+    <entry id="[xb1]hero_activity_trigger_l"><![CDATA[(LT HOLD) Building Upgrades]]></entry>
+    <entry id="[xb1]hero_activity_trigger_r"><![CDATA[(RT HOLD) Roster Focus]]></entry>
+    <entry id="[xb1]hero_activity_start2"><![CDATA[Help]]></entry>
+    <entry id="[xb1]hero_action_trigger_l"><![CDATA[(LT HOLD) Building Upgrades]]></entry>
+    <entry id="[xb1]hero_action_trigger_r"><![CDATA[(RT HOLD) Roster Focus]]></entry>
+    <entry id="[xb1]hero_action_start2"><![CDATA[Help]]></entry>
+    <entry id="[xb1]nomad_wagon_trigger_l"><![CDATA[(LT HOLD) Building Upgrades]]></entry>
+    <entry id="[xb1]nomad_wagon_trigger_r"><![CDATA[(RT HOLD) Roster Focus]]></entry>
+    <entry id="[xb1]nomad_wagon_start2"><![CDATA[Help]]></entry>
+    <entry id="[xb1]stage_coach_trigger_l"><![CDATA[(LT HOLD) Building Upgrades]]></entry>
+    <entry id="[xb1]stage_coach_trigger_r"><![CDATA[(RT HOLD) Roster Focus]]></entry>
+    <entry id="[xb1]stage_coach_start2"><![CDATA[Help]]></entry>
+    <entry id="[xb1]quest_select_trigger_r"><![CDATA[(RT HOLD) Roster Focus]]></entry>
+    <entry id="[xb1]quest_select_stick_r"><![CDATA[[CLICK] Embark]]></entry>
+    <entry id="[xb1]quest_select_start2"><![CDATA[Help]]></entry>
+    <entry id="[xb1]provision_trigger_r"><![CDATA[(RT HOLD) Roster Focus]]></entry>
+    <entry id="[xb1]provision_stick_r"><![CDATA[[CLICK] Embark]]></entry>
+    <entry id="[xb1]provision_start2"><![CDATA[Help]]></entry>
+    <entry id="[xb1]inventory_trigger_l"><![CDATA[(LT HOLD) Item Info]]></entry>
+    <entry id="[xb1]tutorial_popup_quest_select_description"><![CDATA[This is where you select a quest and form an adventuring party of four heroes to embark on it. 
+ 
+ {colour_start|notable}[SELECT]{colour_end} quests with {colour_start|notable}[LEFT STICK]{colour_end} to see their details.
+ 
+ Place heroes into slots at the bottom of the screen to form your party by holding{colour_start|notable}[RT]{colour_end} and using the {colour_start|notable}[A BUTTON]{colour_end}.]]></entry>
+    <entry id="[xb1]tutorial_popup_stage_coach_description"><![CDATA[You'll need to {colour_start|notable}recruit all of these heroes{colour_end} to fill out a party of four.
+ 
+ Select each hero with {colour_start|notable}[LEFT STICK] plus [A BUTTON]{colour_end} and then use {colour_start|notable}[LEFT STICK] plus [A BUTTON]{colour_end} again to place the hero in your active roster on the right.]]></entry>
+    <entry id="[xb1]tutorial_popup_quest_complete_description"><![CDATA[After you've completed the requirements of a quest, you have the option to {colour_start|notable}return to town{colour_end} at any time--just press {colour_start|notable}[RIGHT STICK]{colour_end}. You don't need to return to the starting room of the dungeon to exit.
+ 
+ (Press {colour_start|town_activity_log_positive_result}[B BUTTON]{colour_end} to close this window.)]]></entry>
+    <entry id="[xb1]tutorial_popup_hero_panel_description"><![CDATA[When a hero is selected, press {colour_start|town_activity_log_positive_result}[X BUTTON]{colour_end} to bring up a detailed panel showing all of the hero's {colour_start|notable}quirks{colour_end}, {colour_start|notable}skills{colour_end}, and {colour_start|notable}resistances{colour_end}.]]></entry>
+    <entry id="[xb1]tutorial_popup_press_h_description"><![CDATA[On any screen in the game, press {colour_start|town_activity_log_positive_result}[View]{colour_end} to see contextual help.
+ 
+ Try it while in town, exploring, fighting, camping, and more.]]></entry>
+    <entry id="[xb1]tutorial_popup_combat_description"><![CDATA[Combat is {colour_start|notable}turn-based{colour_end}. On your hero's turn, {colour_start|town_activity_log_positive_result}[SELECT]{colour_end} a skill icon and then {colour_start|town_activity_log_positive_result}[SELECT]{colour_end} a target. 
+ 
+ If you can't select a particular skill, it's because that hero needs to be {colour_start|notable}standing in a different spot{colour_end} or there are {colour_start|notable}no valid targets{colour_end}. {colour_start|town_activity_log_positive_result}[HIGHLIGHT]{colour_end} the skill to see the requirements.]]></entry>
+    <entry id="[xb1]tutorial_popup_map_nav_description"><![CDATA[You are currently in a {colour_start|notable}room{colour_end}.
+ 
+ To move towards another room, use {colour_start|town_activity_log_positive_result}[RIGHT STICK]{colour_end} to select a {colour_start|notable}destination room{colour_end} on the {colour_start|notable}map{colour_end}. This will take you to the {colour_start|notable}connecting hallway{colour_end}.
+ 
+ (Press {colour_start|town_activity_log_positive_result}[B BUTTON]{colour_end} to close this window.)]]></entry>
+    <entry id="[xb1]tutorial_popup_hallway_nav_description"><![CDATA[While in a {colour_start|notable}hallway{colour_end}, use {colour_start|town_activity_log_positive_result}[LEFT STICK]{colour_end} to move forward or backward.
+ 
+ (Press {colour_start|town_activity_log_positive_result}[B BUTTON]{colour_end} to close this window.)]]></entry>
+    <entry id="[xb1]tutorial_popup_curio_description"><![CDATA[While exploring, you will often find {colour_start|notable}interactive objects{colour_end}. Press {colour_start|town_activity_log_positive_result}[A BUTTON]{colour_end} to investigate them with the active hero. Take a look at this tent...
+ 
+ (Press {colour_start|town_activity_log_positive_result}[B BUTTON]{colour_end} to close this window.)]]></entry>
+    <entry id="[xb1]tutorial_popup_bandage_description"><![CDATA[Your hero is {colour_start|pop_text_bleed}bleeding{colour_end}!
+ 
+ If you wish, you can use a {colour_start|notable}bandage{colour_end} from inventory to stop the flow. Select the bandage and press {colour_start|town_activity_log_positive_result}[Y BUTTON]{colour_end} to use it when it's the injured hero's turn.]]></entry>
+    <entry id="[xb1]tutorial_popup_antivenom_description"><![CDATA[Select and use Anti-Venom, Bandages, or Medicinal Herbs from inventory with {colour_start|town_activity_log_positive_result}[LEFT STICK]{colour_end} and {colour_start|town_activity_log_positive_result}[Y BUTTON]{colour_end} to heal BLIGHT, BLEED, or DEBUFFS on the current hero, respectively.]]></entry>
+    <entry id="[xb1]tutorial_popup_torch_description"><![CDATA[The {colour_start|notable}light{colour_end} is fading! The current {colour_start|notable}torch level greatly affects many mechanics{colour_end} in the game. The darker it gets, the harder things get but the better the rewards. Select a torch in inventory and press {colour_start|town_activity_log_positive_result}[Y BUTTON]{colour_end} to consume it and boost the light back up.]]></entry>
+    <entry id="[xb1]tutorial_popup_camping_quest_description"><![CDATA[This quest involves {colour_start|notable}Camping{colour_end} and Camping requires {colour_start|notable}firewood{colour_end}. Firewood is {colour_start|notable}given automatically{colour_end} to you on appropriate quests.
+ 
+ {colour_start|notable}Camping{colour_end} gives heroes a chance to {colour_start|notable}recuperate while in the dungeon{colour_end}. When you are wounded or stressed and wish to camp, select firewood in your inventory and press {colour_start|town_activity_log_positive_result}[Y BUTTON]{colour_end}.]]></entry>
+    <entry id="[xb1]tutorial_popup_disarm_trap_description"><![CDATA[Scouted {colour_start|trap}traps{colour_end} will be {colour_start|notable}visible on the ground{colour_end} as you approach them. Select a hero and then press {colour_start|town_activity_log_positive_result}[A BUTTON]{colour_end} while near the {colour_start|trap}trap{colour_end} to attempt to {colour_start|notable}disarm it{colour_end}.
+ 
+ When heroes are within range of a scouted trap, the trap icon will show up in their status bars.
+ 
+ Some heroes are better than others at disarming.]]></entry>
+    <entry id="[xb1]tutorial_popup_using_doors_description"><![CDATA[To enter a {colour_start|notable}door{colour_end}, press {colour_start|town_activity_log_positive_result}[A BUTTON]{colour_end} when standing in front of it.]]></entry>
+    <entry id="[xb1]tutorial_popup_trinkets_description"><![CDATA[Each hero has slots to equip two items, called {colour_start|notable}trinkets{colour_end}. Just select the trinket in inventory and press {colour_start|notable}[A BUTTON] {colour_end} to equip it. {colour_start|notable}Trinkets{colour_end} generally have a trade-off: something good, something bad. Some are also restricted to one hero class.]]></entry>
+    <entry id="[xb1]tutorial_popup_selling_trinkets_description"><![CDATA[You can sell back unwanted trinkets from your Trinket Inventory and make some money. Open the Trinket Inventory with {colour_start|notable}[Y BUTTON]{colour_end}, select a trinket you don't want, and then sell it with [X BUTTON].]]></entry>
+    <entry id="[xb1]tutorial_popup_scout_hidden_door_description"><![CDATA[A critical scouting success will sometimes reveal a {colour_start|notable}Secret Room{colour_end}! Advance to the tile marked with a star, and press {colour_start|notable}[A BUTTON]{colour_end} to enter. Fabulous wealth and riches await those equipped with a {colour_start|notable}key{colour_end}...]]></entry>
+    <entry id="[xb1]str_help_town_0"><![CDATA[Select a hero with {colour_start|town_activity_log_positive_result}[RT plus LEFT STICK]{colour_end} and then press {colour_start|town_activity_log_positive_result}[X BUTTON]{colour_end} to inspect their character sheet. Skills can be selected, clothing color can be changed, and they can be renamed or dismissed permanently.]]></entry>
+    <entry id="[xb1]str_help_town_1"><![CDATA[Use {colour_start|town_activity_log_positive_result}[L STICK and A BUTTON]{colour_end} to enter buildings.]]></entry>
+    <entry id="[xb1]str_help_town_2"><![CDATA[STAGECOACH: recruit new heroes]]></entry>
+    <entry id="[xb1]str_help_town_3"><![CDATA[BLACKSMITH, GUILD, SURVIVALIST: upgrade hero skills and equipment]]></entry>
+    <entry id="[xb1]str_help_town_4"><![CDATA[TAVERN, ABBEY: send heroes for {colour_start|stressNOT1}stress{colour_end} relief]]></entry>
+    <entry id="[xb1]str_help_town_5"><![CDATA[SANITARIUM: treat heroes' quirks and diseases]]></entry>
+    <entry id="[xb1]str_help_town_6"><![CDATA[NOMAD'S WAGON: purchase rare items]]></entry>
+    <entry id="[xb1]str_help_town_7"><![CDATA[Press {colour_start|town_activity_log_positive_result}[RIGHT STICK]{colour_end} when ready to {colour_start|town_activity_log_positive_result}EMBARK ON A QUEST{colour_end}.]]></entry>
+    <entry id="[xb1]str_help_town_stage_coach_0"><![CDATA[Hold {colour_start|town_activity_log_positive_result}[LT]{colour_end} to access upgrades for this building.]]></entry>
+    <entry id="[xb1]str_help_town_stage_coach_1"><![CDATA[With a hero selected, press {colour_start|town_activity_log_positive_result}[X BUTTON]{colour_end} to inspect them.]]></entry>
+    <entry id="[xb1]str_help_town_stage_coach_2"><![CDATA[Use {colour_start|town_activity_log_positive_result}[A BUTTON]{colour_end} to hire and place new heroes into your roster.]]></entry>
+    <entry id="[xb1]str_help_town_blacksmith_0"><![CDATA[Hold {colour_start|town_activity_log_positive_result}[LT]{colour_end} to access upgrades for this building.]]></entry>
+    <entry id="[xb1]str_help_town_blacksmith_1"><![CDATA[{colour_start|town_activity_log_positive_result}[Place]{colour_end} a hero from your roster into the Blacksmith slot to see their weapon and armor upgrade options.]]></entry>
+    <entry id="[xb1]str_help_town_blacksmith_2"><![CDATA[{colour_start|town_activity_log_positive_result}[Select]{colour_end} upgrades and press {colour_start|town_activity_log_positive_result}[A BUTTON]{colour_end} to purchase them. You may need to upgrade the Blacksmith before purchasing certain hero upgrades.]]></entry>
+    <entry id="[xb1]str_help_town_guild_0"><![CDATA[Hold {colour_start|town_activity_log_positive_result}[LT]{colour_end} to access upgrades for this building.]]></entry>
+    <entry id="[xb1]str_help_town_guild_1"><![CDATA[{colour_start|town_activity_log_positive_result}[Place]{colour_end} a hero from your roster into the Guild to see their skill upgrade options.]]></entry>
+    <entry id="[xb1]str_help_town_guild_2"><![CDATA[{colour_start|town_activity_log_positive_result}[Select]{colour_end} combat skills or combat skill upgrades and press {colour_start|town_activity_log_positive_result}[A BUTTON]{colour_end} to purchase them. You may need to upgrade the Guild before purchasing certain hero upgrades.]]></entry>
+    <entry id="[xb1]str_help_town_camping_trainer_1"><![CDATA[{colour_start|town_activity_log_positive_result}[Place]{colour_end} a hero from your roster into the Survivalist to see their Camping skill upgrade options.]]></entry>
+    <entry id="[xb1]str_help_town_camping_trainer_2"><![CDATA[{colour_start|town_activity_log_positive_result}[Select]{colour_end} skills or upgrades and press {colour_start|town_activity_log_positive_result}[A BUTTON]{colour_end} to purchase them. You may need to upgrade the Survivalist before purchasing certain hero upgrades.]]></entry>
+    <entry id="[xb1]str_help_town_tavern_0"><![CDATA[Hold {colour_start|town_activity_log_positive_result}[LT]{colour_end} to access upgrades for this building.]]></entry>
+    <entry id="[xb1]str_help_town_tavern_1"><![CDATA[{colour_start|town_activity_log_positive_result}[Place]{colour_end} a hero from your roster into the appropriate slot and confirm payment with {colour_start|town_activity_log_positive_result}[A BUTTON]{colour_end} to begin a stress-relieving activity.]]></entry>
+    <entry id="[xb1]str_help_town_tavern_2"><![CDATA[Some quirks will block a hero from taking part in that activity.]]></entry>
+    <entry id="[xb1]str_help_town_tavern_3"><![CDATA[Each activity has different costs, {colour_start|stressNOT1}stress{colour_end} relief values, and possible side-effects. You will have to discover some of them through play.]]></entry>
+    <entry id="[xb1]str_help_town_tavern_4"><![CDATA[Committing the hero to the activity will make them unavailable for the next quest.]]></entry>
+    <entry id="[xb1]str_help_town_tavern_5"><![CDATA[You will need to upgrade the building to unlock additional activity slots.]]></entry>
+    <entry id="[xb1]str_help_town_tavern_6"><![CDATA[Select an unoccupied building slot and press {colour_start|town_activity_log_positive_result}[A BUTTON]{colour_end} to eject the hero from the building activity prematurely. You will not be refunded the money spent.]]></entry>
+    <entry id="[xb1]str_help_town_abbey_0"><![CDATA[Hold {colour_start|town_activity_log_positive_result}[LT]{colour_end} to access upgrades for this building.]]></entry>
+    <entry id="[xb1]str_help_town_abbey_1"><![CDATA[{colour_start|town_activity_log_positive_result}[Place]{colour_end} a hero from your roster into the appropriate slot and confirm payment with {colour_start|town_activity_log_positive_result}[A BUTTON]{colour_end} to begin a stress-relieving activity.]]></entry>
+    <entry id="[xb1]str_help_town_abbey_2"><![CDATA[Some quirks will block a hero from taking part in that activity.]]></entry>
+    <entry id="[xb1]str_help_town_abbey_3"><![CDATA[Each activity has different costs, {colour_start|stressNOT1}stress{colour_end} relief values, and possible side-effects. You will have to discover some of them through play.]]></entry>
+    <entry id="[xb1]str_help_town_abbey_4"><![CDATA[Committing the hero to the activity will make them unavailable for the next quest.]]></entry>
+    <entry id="[xb1]str_help_town_abbey_5"><![CDATA[You will need to upgrade the building to unlock additional activity slots.]]></entry>
+    <entry id="[xb1]str_help_town_abbey_6"><![CDATA[Select an unoccupied building slot and press {colour_start|town_activity_log_positive_result}[A BUTTON]{colour_end} to eject the hero from the building activity prematurely. You will not be refunded the money spent.]]></entry>
+    <entry id="[xb1]str_help_town_sanitarium_0"><![CDATA[Hold {colour_start|town_activity_log_positive_result}[LT]{colour_end} to access upgrades for this building.]]></entry>
+    <entry id="[xb1]str_help_town_sanitarium_1"><![CDATA[Treating quirks: {colour_start|town_activity_log_positive_result}[Place]{colour_end} a hero into a treatment ward slot and select a positive quirk to reinforce and/or a negative quirk to remove. Severe quirks cost more to remove.]]></entry>
+    <entry id="[xb1]str_help_town_sanitarium_2"><![CDATA[Treating diseases: {colour_start|town_activity_log_positive_result}[Place]{colour_end} a hero into a medical ward slot and select a disease to treat. Sometimes extra diseases will also be cured.]]></entry>
+    <entry id="[xb1]str_help_town_sanitarium_3"><![CDATA[Committing the hero to treatment will make them unavailable for the next quest.]]></entry>
+    <entry id="[xb1]str_help_town_sanitarium_4"><![CDATA[You will need to upgrade the building to unlock additional treatment slots.]]></entry>
+    <entry id="[xb1]str_help_town_sanitarium_5"><![CDATA[Select an unoccupied building slot and press {colour_start|town_activity_log_positive_result}[A BUTTON]{colour_end} to eject the hero from the building activity prematurely. You will not be refunded the money spent.]]></entry>
+    <entry id="[xb1]str_help_town_nomad_wagon_0"><![CDATA[Hold {colour_start|town_activity_log_positive_result}[LT]{colour_end} to access upgrades for this building.]]></entry>
+    <entry id="[xb1]str_help_town_nomad_wagon_1"><![CDATA[{colour_start|town_activity_log_positive_result}[Select]{colour_end} an available item and press {colour_start|town_activity_log_positive_result}[A BUTTON]{colour_end} to purchase it.]]></entry>
+    <entry id="[xb1]str_help_town_quest_select_0"><![CDATA[{colour_start|town_activity_log_positive_result}[Select]{colour_end} available quests to inspect them.]]></entry>
+    <entry id="[xb1]str_help_town_quest_select_1"><![CDATA[{colour_start|town_activity_log_positive_result}[Select]{colour_end} heroes and press {colour_start|town_activity_log_positive_result}[A BUTTON]{colour_end} to add them into the adventuring party.]]></entry>
+    <entry id="[xb1]str_help_town_quest_select_2"><![CDATA[Heroes that are in the Tavern, Abbey, or Sanitarium will be unavailable for use.]]></entry>
+    <entry id="[xb1]str_help_town_quest_select_3"><![CDATA[Complete quests in regions to advance your Mastery in that region and open up new quest types.]]></entry>
+    <entry id="[xb1]str_help_town_quest_select_4"><![CDATA[Press {colour_start|town_activity_log_positive_result}[RIGHT STICK]{colour_end} when ready to proceed to Provisioning.]]></entry>
+    <entry id="[xb1]str_help_town_provision_0"><![CDATA[{colour_start|town_activity_log_positive_result}[Select]{colour_end} items in the shop and press {colour_start|town_activity_log_positive_result}[A BUTTON]{colour_end} to purchase them for the expedition.]]></entry>
+    <entry id="[xb1]str_help_town_provision_1"><![CDATA[At quest end, unused provisions will be discarded without repayment. Buy only as much as you need!]]></entry>
+    <entry id="[xb1]str_help_town_provision_2"><![CDATA[You'll always want to carry some food and torches! Each hero generally eats 1 food unit per meal (Camping or Hunger event) and even on short quests you'll want at least 8 torches.]]></entry>
+    <entry id="[xb1]str_help_raid_room_0"><![CDATA[Use {colour_start|town_activity_log_positive_result}[RIGHT STICK]{colour_end} to choose a new room destination and enter the connecting hallway.]]></entry>
+    <entry id="[xb1]str_help_raid_room_1"><![CDATA[Use {colour_start|town_activity_log_positive_result}[RB and LB]{colour_end} to change active hero.]]></entry>
+    <entry id="[xb1]str_help_raid_room_2"><![CDATA[Use {colour_start|town_activity_log_positive_result}[UP BUTTON and DOWN BUTTON]{colour_end} to toggle between INVENTORY and MAP.]]></entry>
+    <entry id="[xb1]str_help_raid_room_3"><![CDATA[Press {colour_start|town_activity_log_positive_result}[A BUTTON]{colour_end} to move a hero within the party. {colour_start|town_activity_log_positive_result}[Hold A BUTTON]{colour_end} to restore default order.]]></entry>
+    <entry id="[xb1]str_help_raid_room_4"><![CDATA[To start CAMPING, select firewood in inventory (if you have any) and press {colour_start|town_activity_log_positive_result}[Y BUTTON]{colour_end}.]]></entry>
+    <entry id="[xb1]str_help_raid_room_5"><![CDATA[Hold {colour_start|town_activity_log_positive_result}[LT]{colour_end} to view gameplay effects like light level and hero status conditions.]]></entry>
+    <entry id="[xb1]str_help_raid_room_6"><![CDATA[Press {colour_start|town_activity_log_positive_result}[RIGHT STICK]{colour_end} to abandon the quest and return to the Hamlet.]]></entry>
+    <entry id="[xb1]str_help_raid_room_7"><![CDATA[Hold {colour_start|town_activity_log_positive_result}[RT]{colour_end} to access map controls.]]></entry>
+    <entry id="[xb1]str_help_raid_room_8"><![CDATA[Press {colour_start|town_activity_log_positive_result}[X BUTTON]{colour_end} to see a hero's detailed character sheet.]]></entry>
+    <entry id="[xb1]str_help_raid_hallway_0"><![CDATA[Use {colour_start|town_activity_log_positive_result}[RIGHT STICK]{colour_end} to walk forward or backward.]]></entry>
+    <entry id="[xb1]str_help_raid_hallway_1"><![CDATA[Press {colour_start|town_activity_log_positive_result}[A BUTTON]{colour_end} to enter doors.]]></entry>
+    <entry id="[xb1]str_help_raid_hallway_2"><![CDATA[Use {colour_start|town_activity_log_positive_result}[UP BUTTON and DOWN BUTTON]{colour_end} to toggle between INVENTORY and MAP.]]></entry>
+    <entry id="[xb1]str_help_raid_hallway_3"><![CDATA[Use {colour_start|town_activity_log_positive_result}[RB and LB]{colour_end} to change hero selection.]]></entry>
+    <entry id="[xb1]str_help_raid_hallway_4"><![CDATA[Press {colour_start|town_activity_log_positive_result}[A BUTTON]{colour_end} to move a hero within the party. {colour_start|town_activity_log_positive_result}[Hold A BUTTON]{colour_end} to restore default order.]]></entry>
+    <entry id="[xb1]str_help_raid_hallway_5"><![CDATA[Hold {colour_start|town_activity_log_positive_result}[LT]{colour_end} to view gameplay effects like light level and hero status conditions.]]></entry>
+    <entry id="[xb1]str_help_raid_hallway_6"><![CDATA[Hold {colour_start|town_activity_log_positive_result}[RT]{colour_end} to access map controls.]]></entry>
+    <entry id="[xb1]str_help_raid_hallway_7"><![CDATA[Press {colour_start|town_activity_log_positive_result}[RIGHT STICK]{colour_end} to abandon the quest and return to the Hamlet.]]></entry>
+    <entry id="[xb1]str_help_raid_combat_0"><![CDATA[On hero's turn, use {colour_start|town_activity_log_positive_result}[LEFT STICK]{colour_end} and {colour_start|town_activity_log_positive_result}[A BUTTON]{colour_end} to select a valid combat skill and then a target.]]></entry>
+    <entry id="[xb1]str_help_raid_combat_1"><![CDATA[Each skill has requirements for where the hero needs to be standing and what enemies they can target. Select a skill with {colour_start|town_activity_log_positive_result}[LEFT STICK]{colour_end} to see the requirements.]]></entry>
+    <entry id="[xb1]str_help_raid_combat_2"><![CDATA[When selecting a target with {colour_start|town_activity_log_positive_result}[LEFT STICK]{colour_end}, you can see that enemy's stats and the hero's chance to hit / damage values with the currently selected skill.]]></entry>
+    <entry id="[xb1]str_help_raid_combat_3"><![CDATA[Press {colour_start|town_activity_log_positive_result}[X BUTTON]{colour_end} to see a hero's detailed character sheet.]]></entry>
+    <entry id="[xb1]str_help_raid_combat_4"><![CDATA[Hold {colour_start|town_activity_log_positive_result}[LT]{colour_end} to view current light level and hero / monster status effects.]]></entry>
+    <entry id="[xb1]str_help_raid_combat_5"><![CDATA[Select and use Anti-Venom, Bandages, or Medicinal Herbs from inventory with {colour_start|town_activity_log_positive_result}[Y BUTTON]{colour_end} to heal BLIGHT, BLEED, or DEBUFFS on the current hero, respectively.]]></entry>
+    <entry id="[xb1]str_help_raid_camping_0"><![CDATA[Use {colour_start|town_activity_log_positive_result}[LEFT STICK]{colour_end} to highlight a meal option and press {colour_start|town_activity_log_positive_result}[A BUTTON]{colour_end} to eat. You are limited by how much food you have in inventory.]]></entry>
+    <entry id="[xb1]str_help_raid_camping_1"><![CDATA[Your party has {colour_start|town_activity_log_positive_result}[12 RESPITE POINTS]{colour_end} to spend on using Camping skills.]]></entry>
+    <entry id="[xb1]str_help_raid_camping_2"><![CDATA[Use {colour_start|town_activity_log_positive_result}[LB and RB]{colour_end} to select a hero and then {colour_start|town_activity_log_positive_result}[LEFT STICK and A BUTTON]{colour_end} to use a skill. Some skills require a target to be selected.]]></entry>
+    <entry id="[xb1]str_help_raid_camping_3"><![CDATA[When done spending RESPITE POINTS, press {colour_start|town_activity_log_positive_result}[Y BUTTON]{colour_end} to finish camping.]]></entry>
+    <entry id="[xb1]str_navigate_via_map"><![CDATA[Use {colour_start|town_activity_log_positive_result}[RIGHT STICK]{colour_end} to select a destination room on the map.]]></entry>
+    <entry id="[xb1]str_reduce_torch_tip"><![CDATA[Hold [LT] and press [B BUTTON] to reduce torchlight.]]></entry>
+    <entry id="[xb1]str_snuff_torch_tip"><![CDATA[Hold [LT] and press [B BUTTON] repeatedly to snuff out the torch.]]></entry>
+    <entry id="[xb1]action_select_hero"><![CDATA[Place a hero here.]]></entry>
+    <entry id="[xb1]corrupt_save_confirm_question"><![CDATA[Your save file appears to have been corrupted. Estate cannot be loaded.]]></entry>
+    <entry id="[xb1]menu_options_element_tooltip_bark_dismissal"><![CDATA[Press [A BUTTON] to dismiss hero word balloons.]]></entry>
+    <entry id="[xb1]input_command_realm_inventory_hold_to_unequip_instruction"><![CDATA[[Hold] Unequip]]></entry>
+    <entry id="[xb1]str_discard_item_instructions"><![CDATA[[Hold Y BUTTON] to discard an item.]]></entry>
+    <entry id="[xb1]str_hero_slot_unlocked_disease_treatment"><![CDATA[[A BUTTON] to commit hero for treatment.]]></entry>
+    <entry id="[xb1]str_hero_slot_unlocked_stagecoach_tt"><![CDATA[Press {colour_start|town_activity_log_positive_result}[A BUTTON]{colour_end} to recruit into roster.]]></entry>
+    <entry id="[xb1]str_hero_slot_unlocked_treatment"><![CDATA[[A BUTTON] to commit hero for treatment.]]></entry>
+    <entry id="[xb1]str_loading_screen_continue"><![CDATA[Press {colour_start|town_activity_log_positive_result}[ANY BUTTON]{colour_end} to Continue]]></entry>
+    <entry id="[xb1]str_save_pre_click"><![CDATA[Select the letter to begin...]]></entry>
+    <entry id="[xb1]town_name_realm_inventory"><![CDATA[Trinkets]]></entry>
+    <entry id="[xb1]str_dlc_missing"><![CDATA[Required DLC is missing.]]></entry>
+    <entry id="[xb1]str_town_tip"><![CDATA[Hold {colour_start|notable}[LT]{colour_end} to see details about torchlight, combat status, inventory items, and more!]]></entry>
+    <entry id="[xb1]str_crypts_tip"><![CDATA[Hold {colour_start|notable}[LT]{colour_end} to see details about torchlight, combat status, inventory items, and more!]]></entry>
+    <entry id="[xb1]str_weald_tip"><![CDATA[Hold {colour_start|notable}[LT]{colour_end} to see details about torchlight, combat status, inventory items, and more!]]></entry>
+    <entry id="[xb1]str_warrens_tip"><![CDATA[Hold {colour_start|notable}[LT]{colour_end} to see details about torchlight, combat status, inventory items, and more!]]></entry>
+    <entry id="[xb1]str_cove_tip"><![CDATA[Hold {colour_start|notable}[LT]{colour_end} to see details about torchlight, combat status, inventory items, and more!]]></entry>
+    <entry id="[xb1]str_town_tip"><![CDATA[Press {colour_start|notable}[View]{colour_end} on any screen to get context-sensitive HELP!]]></entry>
+    <entry id="[xb1]str_crypts_tip"><![CDATA[Press {colour_start|notable}[View]{colour_end} on any screen to get context-sensitive HELP!]]></entry>
+    <entry id="[xb1]str_weald_tip"><![CDATA[Press {colour_start|notable}[View]{colour_end} on any screen to get context-sensitive HELP!]]></entry>
+    <entry id="[xb1]str_warrens_tip"><![CDATA[Press {colour_start|notable}[View]{colour_end} on any screen to get context-sensitive HELP!]]></entry>
+    <entry id="[xb1]str_cove_tip"><![CDATA[Press {colour_start|notable}[View]{colour_end} on any screen to get context-sensitive HELP!]]></entry>
+    <entry id="[xb1]str_town_tip"><![CDATA[Did you know there is a Glossary in the {colour_start|notable}Options Menu{colour_end}?]]></entry>
+    <entry id="[xb1]str_crypts_tip"><![CDATA[Did you know there is a Glossary in the {colour_start|notable}Options Menu{colour_end}?]]></entry>
+    <entry id="[xb1]str_weald_tip"><![CDATA[Did you know there is a Glossary in the {colour_start|notable}Options Menu{colour_end}?]]></entry>
+    <entry id="[xb1]str_warrens_tip"><![CDATA[Did you know there is a Glossary in the {colour_start|notable}Options Menu{colour_end}?]]></entry>
+    <entry id="[xb1]str_cove_tip"><![CDATA[Did you know there is a Glossary in the {colour_start|notable}Options Menu{colour_end}?]]></entry>
+    <entry id="[xb1]menu_base_element_exit_campaign"><![CDATA[Save and Exit]]></entry>
+    <entry id="[xb1]str_preamble_0"><![CDATA[Darkest Dungeon is about making the most of a bad situation. Quests will fail or must be abandoned. Heroes will die. And when they die, they stay dead. Progress autosaves frequently, so actions are permanent.]]></entry>
+    <entry id="[xb1]menu_options_element_tooltip_hold_required_in_dungeon"><![CDATA[While in dungeons, holding LT Button is required before you can swap hero positions, change hero selection, or view character sheets. Turn this on if you frequently start swapping a hero's position when you didn't intend to.]]></entry>
+    <entry id="[xb1]menu_options_element_alternate_dpad_left_right"><![CDATA[Use D-Pad Left and D-Pad Right Buttons in Dungeon]]></entry>
+    <entry id="[xb1]menu_options_element_tooltip_alternate_dpad_left_right"><![CDATA[While walking in dungeons, use D-Pad Left and D-Pad Right Buttons for hero swapping instead of LB and RB Buttons.]]></entry>
+    <entry id="[xb1]menu_options_element_left_stick_interact"><![CDATA[Interact with L Stick Up]]></entry>
+    <entry id="[xb1]menu_options_element_tooltip_left_stick_interact"><![CDATA[While in dungeons, pressing up on L Stick can be used to enter doors, open curios, and similar actions. (This duplicates A Button functionality.)]]></entry>
+    <entry id="[xb1]provision_sell_back_info"><![CDATA[Sell back with [A BUTTON]]]></entry>
+    <entry id="[xb1]tutorial_popup_loot_description"><![CDATA[Each item, if you take it, will occupy space in your inventory.
+ 
+ Hold {colour_start|notable}[LT] and use [LEFT STICK]{colour_end} to show details about the items available to loot. This works in your inventory, too!
+ 
+ (Press {colour_start|town_activity_log_positive_result}[B BUTTON]{colour_end} to close this window.)]]></entry>
+    <entry id="xb1_rich_presence_1"><![CDATA[In the Hamlet]]></entry>
+    <entry id="xb1_rich_presence_2"><![CDATA[In the Darkest Dungeon]]></entry>
+    <entry id="xb1_rich_presence_3"><![CDATA[In the Cove]]></entry>
+    <entry id="xb1_rich_presence_4"><![CDATA[In the Ruins]]></entry>
+    <entry id="xb1_rich_presence_5"><![CDATA[In the Weald]]></entry>
+    <entry id="xb1_rich_presence_6"><![CDATA[In the Warrens]]></entry>
+    <entry id="xb1_rich_presence_7"><![CDATA[In Menus]]></entry>
+    <entry id="[xb1]menu_base_element_switch_profile"><![CDATA[Switch Profile]]></entry>
+    <entry id="[xb1]str_start_screen_press_any_button"><![CDATA[Press any button to start.]]></entry>
+    <entry id="xb1_hero_stat_name_1"><![CDATA[Stress Gained]]></entry>
+    <entry id="xb1_hero_stat_name_2"><![CDATA[Heirlooms Collected]]></entry>
+    <entry id="xb1_hero_stat_name_3"><![CDATA[Graveyard Count]]></entry>
+    <entry id="[xb1]tutorial_popup_stage_coach2_description"><![CDATA[While you're here, spend some of your starting heirlooms on {colour_start|notable}upgrading the Stagecoach Network{colour_end}. This will increase the number of heroes available here in the future. 
+
+Hold {colour_start|town_activity_log_positive_result}[LT]{colour_end} and select the upgrade with {colour_start|town_activity_log_positive_result}[LEFT STICK] and [A BUTTON]{colour_end}.]]></entry>
+    <entry id="[xb1]tutorial_popup_embark_description"><![CDATA[There isn't much more you can do in town right now. It's time to EMBARK on a quest!
+
+Press {colour_start|notable}[RIGHT STICK]{colour_end} to embark!]]></entry>
+  </language>
+</root>
+
