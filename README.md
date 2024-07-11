@@ -24,7 +24,6 @@ P.S.
 ## Альтэрнатыўныя варыянты спампоўкі:
 ### Старонка гульні ў Steam (https://steamcommunity.com/sharedfiles/filedetails/?id=3252114339)
 ### Nexus (https://www.nexusmods.com/darkestdungeon/mods/1779) 
-### GitHub (https://github.com/BerlinerBY/Darkest-Dungeon-Mod)
 
 ## P.S.
 Калі вы знойдзеце нейкія памылкі, ці наўпрост жадаеце прапанаваць пераклад нейкай часткі, можаце звязацца па гэтых спасылках: 
