@@ -31,6 +31,7 @@ Blighted - Атручванне
 Stress - стрэс
 Stun -аглушэнне
 Virtue - Душэўны ўздым
+Horror - Жах
 
 
 Move - Перамяшчэння
@@ -66,6 +67,8 @@ Masochistic - Мазахізм
 Paranoid - Паранойя
 Selfish - Эгаістычнасць
 Resolve Level - Узровень рашучасці
+
+Flagellant - Самабічавальнік
 
 
 Districts - Прадмесце
@@ -182,6 +185,7 @@ Greaves - Понажы
 Gloves - Пальчаткі
 Vial - флакон
 Hat - Капялюш
+Armguard - нарукаўнік
 
 Bloodletter - Крывапускальнік
 INVENTORY - Інвентар
@@ -206,9 +210,6 @@ SANITARIUM - Санаторый
 NOMAD'S WAGON - ФУРМАНКА ВАНДРОЎНІКА
 
 
-DLC - Дапаўненні -
-The Crimson Court - The Crimson Court
-The Color of Madness
 
 from dialogue.string_table.xml
 1, 2, 3, 4, the human heart shall beat no more...
@@ -216,3 +217,46 @@ from dialogue.string_table.xml
 9, 10, 11, 12, in mind and body, I must delve...
 13, 14, 15, 16, excise the heart, the liver, the spleen...
 17, 18, 19, 20, splatter the ground with blood aplenty!
+
+
+DLC - Дапаўненні
+The Crimson Court - The Crimson Court (мо перакласці як Барвовы Двор)
+The Color of Madness
+The Butcher's Circus 
+
+Novice League - Ліга пачаткоўцаў
+Apprentice League - Ліга вучняў
+Veteran League - Ліга ветэранаў
+Champion League - Ліга чэмпіёнаў
+Darkest League - Найзмрачнейшая ліга
+
+Contender - супернік
+Ringmaster - Гаспадар Арэны
+
+Headpiece - Галаўны ўбор
+Ornament - Аздоба
+Pole - Калок
+Trappings - Атрыбуты
+
+brigand Vvulf - бандыт Ввульф
+Miller - Млынар
+Baron - Барон
+Countess - Графіня
+Brawler - скандаліст
+Husk - абалонка
+
+Glyph - гліф
+Fullplate - даспех
+
+Assegai - асегай
+Lash - Бізун
+Shard - Аскепак
+
+Red Hook - Крывавы крук
+Statue guardian - статуя ахоўніка
+shrew - землярыйка ???
+
+Squiffy Ghast - Ап'янелы нябожчык (змяніць у іншых файлах)
+Swine Skiver - Спрытнае парася (змяніць у іншых файлах)
+Bone Bearer - Касцяны сцяганосец (змяніць у іншых файлах)
+Hateful Virago - Ненавісная Мегера 

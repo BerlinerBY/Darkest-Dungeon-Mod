@@ -1,0 +1,900 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <language id="belarus">
+    <entry id="ability_daze" arena_priority="1"><![CDATA[{colour_start|stun}Ашаломленнасць{colour_end}]]></entry>
+    <entry id="ability_stun_pass" arena_priority="1"><![CDATA[{colour_start|stun}ПРОПУСК (АГЛУШЭННЕ){colour_end}]]></entry>
+    <entry id="achievement_abomination_level_6" arena_priority="1"><![CDATA[*Прапампаваць Гідоту да 6 Узр.]]></entry>
+    <entry id="achievement_abomination_level_6_completed" arena_priority="1"><![CDATA[*Прапампаваць Гідоту да 6 Узр.]]></entry>
+    <entry id="achievement_achievement1" arena_priority="1"><![CDATA[*Забіце 10 ворагаў на Арэне]]></entry>
+    <entry id="achievement_achievement1_completed" arena_priority="1"><![CDATA[*Забіце 10 ворагаў на Арэне]]></entry>
+    <entry id="achievement_achievement2" arena_priority="1"><![CDATA[*Страціць 5 герояў на Арэне]]></entry>
+    <entry id="achievement_achievement2_completed" arena_priority="1"><![CDATA[*Страціць 5 герояў на Арэне]]></entry>
+    <entry id="achievement_achievement3" arena_priority="1"><![CDATA[*Нанесці 100 урону на Арэне]]></entry>
+    <entry id="achievement_achievement3_completed" arena_priority="1"><![CDATA[*Нанесці 100 урону на Арэне]]></entry>
+    <entry id="achievement_achievement4" arena_priority="1"><![CDATA[*Перайсці ў Лігу чэмпіёнаў]]></entry>
+    <entry id="achievement_achievement4_completed" arena_priority="1"><![CDATA[*Перайсці ў Лігу чэмпіёнаў]]></entry>
+    <entry id="achievement_ancestors_trinkets" arena_priority="1"><![CDATA[Набудзьце ўсе ўпрыгажэнні вашага продка]]></entry>
+    <entry id="achievement_ancestors_trinkets_completed" arena_priority="1"><![CDATA[Набудзьце ўсе ўпрыгажэнні вашага продка]]></entry>
+    <entry id="achievement_defeat_sleeper" arena_priority="1"><![CDATA[Перамагчы Спячага]]></entry>
+    <entry id="achievement_defeat_sleeper_completed" arena_priority="1"><![CDATA[Перамагчы Спячага]]></entry>
+    <entry id="achievement_defeat_the_brigand_vulf" arena_priority="1"><![CDATA[Перамагчы бандыта Ввульфа]]></entry>
+    <entry id="achievement_defeat_the_brigand_vulf_completed" arena_priority="1"><![CDATA[Перамагчы бандыта Ввульфа]]></entry>
+    <entry id="achievement_first_boss" arena_priority="1"><![CDATA[Забіць свайго першага боса]]></entry>
+    <entry id="achievement_first_boss_completed" arena_priority="1"><![CDATA[Забіць свайго першага боса]]></entry>
+    <entry id="achievement_first_victory" arena_priority="1"><![CDATA[*Першая перамога ў кампаніі]]></entry>
+    <entry id="achievement_first_victory_completed" arena_priority="1"><![CDATA[*Першая перамога ў кампаніі]]></entry>
+    <entry id="achievement_game_complete" arena_priority="1"><![CDATA[Прайсці гульню]]></entry>
+    <entry id="achievement_game_complete_completed" arena_priority="1"><![CDATA[Прайсці гульню]]></entry>
+    <entry id="achievement_kill_all_bosses" arena_priority="1"><![CDATA[Забіць ўсіх босаў]]></entry>
+    <entry id="achievement_kill_all_bosses_completed" arena_priority="1"><![CDATA[Забіць ўсіх босаў]]></entry>
+    <entry id="achievement_plot_kill_brigand_cannon_1" arena_priority="1"><![CDATA[Перамагчы 8-фунтовую гармату разбойнікаў]]></entry>
+    <entry id="achievement_plot_kill_brigand_cannon_1_completed" arena_priority="1"><![CDATA[Перамагчы 8-фунтовую гармату разбойнікаў]]></entry>
+    <entry id="achievement_plot_kill_drowned_crew_1" arena_priority="1"><![CDATA[Перамагчы Прамоклы экіпаж]]></entry>
+    <entry id="achievement_plot_kill_drowned_crew_1_completed" arena_priority="1"><![CDATA[Перамагчы Прамоклы экіпаж]]></entry>
+    <entry id="achievement_plot_kill_formless_flesh_1" arena_priority="1"><![CDATA[Перамагчы Рудыментарную плоць]]></entry>
+    <entry id="achievement_plot_kill_formless_flesh_1_completed" arena_priority="1"><![CDATA[Перамагчы Рудыментарную плоць]]></entry>
+    <entry id="achievement_plot_kill_hag_1" arena_priority="1"><![CDATA[Перамагчы Маршчыністую ведзьму]]></entry>
+    <entry id="achievement_plot_kill_hag_1_completed" arena_priority="1"><![CDATA[Перамагчы Маршчыністую ведзьму]]></entry>
+    <entry id="achievement_plot_kill_necromancer_1" arena_priority="1"><![CDATA[Перамагчы Вучня-некраманта]]></entry>
+    <entry id="achievement_plot_kill_necromancer_1_completed" arena_priority="1"><![CDATA[Перамагчы Вучня-некраманта]]></entry>
+    <entry id="achievement_plot_kill_prophet_1" arena_priority="1"><![CDATA[Перамагчы Гучнага Прарока]]></entry>
+    <entry id="achievement_plot_kill_prophet_1_completed" arena_priority="1"><![CDATA[Перамагчы Гучнага Прарока]]></entry>
+    <entry id="achievement_plot_kill_siren_1" arena_priority="1"><![CDATA[Перамагчы Сірэну]]></entry>
+    <entry id="achievement_plot_kill_siren_1_completed" arena_priority="1"><![CDATA[Перамагчы Сірэну]]></entry>
+    <entry id="achievement_plot_kill_swine_prince_1" arena_priority="1"><![CDATA[Перамагчы Прынца Свіней]]></entry>
+    <entry id="achievement_plot_kill_swine_prince_1_completed" arena_priority="1"><![CDATA[Перамагчы Прынца Свіней]]></entry>
+    <entry id="achievement_medium_quest" arena_priority="1"><![CDATA[Выканаць сярэдняе заданне]]></entry>
+    <entry id="achievement_medium_quest_completed" arena_priority="1"><![CDATA[Выканаць сярэдняе заданне]]></entry>
+    <entry id="achievement_merciful_act" arena_priority="1"><![CDATA[Перамагчы Млынара]]></entry>
+    <entry id="achievement_merciful_act_completed" arena_priority="1"><![CDATA[Перамагчы Млынара]]></entry>
+    <entry id="achievement_has_dlc_735730" arena_priority="1"><![CDATA[Набыць дапаўненне The Color of Madness]]></entry>
+    <entry id="achievement_has_dlc_580100" arena_priority="1"><![CDATA[Набыць дапаўненне The Crimson Court]]></entry>
+    <entry id="achievement_own_dlc_founder" arena_priority="1"><![CDATA[*Набыць дапаўненне The Founders Pack]]></entry>
+    <entry id="achievement_plot_tutorial_crypts" arena_priority="1"><![CDATA[*Завяршыць інструктаж]]></entry>
+    <entry id="achievement_plot_tutorial_crypts_completed" arena_priority="1"><![CDATA[*Завяршыць інструктаж]]></entry>
+    <entry id="achievement_reach_league_1" arena_priority="1"><![CDATA[Перайсці ў Лігу пачаткоўцаў у The Circus]]></entry>
+    <entry id="achievement_reach_league_1_completed" arena_priority="1"><![CDATA[Рэйтынг Лігі пачаткоўцаў]]></entry>
+    <entry id="achievement_reach_league_2" arena_priority="1"><![CDATA[Перайсці ў Лігу вучняў у The Circus]]></entry>
+    <entry id="achievement_reach_league_2_completed" arena_priority="1"><![CDATA[Рэйтынг Лігі вучняў]]></entry>
+    <entry id="achievement_reach_league_3" arena_priority="1"><![CDATA[Перайсці ў Лігу ветэранаў у The Circus]]></entry>
+    <entry id="achievement_reach_league_3_completed" arena_priority="1"><![CDATA[Рэйтынг Лігі ветэранаў]]></entry>
+    <entry id="achievement_reach_league_4" arena_priority="1"><![CDATA[Перайсці ў Лігу чэмпіёнаў у The Circus]]></entry>
+    <entry id="achievement_reach_league_4_completed" arena_priority="1"><![CDATA[Рэйтынг Лігі чэмпіёнаў]]></entry>
+    <entry id="achievement_reach_league_5" arena_priority="1"><![CDATA[Перайсці ў Найзмрачнейшую лігу у The Circus]]></entry>
+    <entry id="achievement_reach_league_5_completed" arena_priority="1"><![CDATA[Рэйтынг Найзмрачнейшай лігі]]></entry>
+    <entry id="achievement_slay_4_champions" arena_priority="1"><![CDATA[Забіце Ап'янелага нябожчыка, Спрытнае парася, Касцянога сцяганосца і Ненавісную Мегеру]]></entry>
+    <entry id="achievement_slay_4_champions_completed" arena_priority="1"><![CDATA[Забіце Ап'янелага нябожчыка, Спрытнае парася, Касцянога сцяганосца і Ненавісную Мегеру]]></entry>
+    <entry id="achievement_slay_a_shambler" arena_priority="1"><![CDATA[???]]></entry>
+    <entry id="achievement_slay_a_shambler_completed" arena_priority="1"><![CDATA[Забіць Кашмарніка]]></entry>
+    <entry id="achievement_slay_the_baron" arena_priority="1"><![CDATA[Перамагчы Барона]]></entry>
+    <entry id="achievement_slay_the_baron_completed" arena_priority="1"><![CDATA[Перамагчы Барона]]></entry>
+    <entry id="achievement_slay_the_countess" arena_priority="1"><![CDATA[Перамагчы Графіню]]></entry>
+    <entry id="achievement_slay_the_countess_completed" arena_priority="1"><![CDATA[Перамагчы Графіню]]></entry>
+    <entry id="achievement_ten_victories" arena_priority="1"><![CDATA[Выканайць 10 заданняў]]></entry>
+    <entry id="achievement_ten_victories_completed" arena_priority="1"><![CDATA[Выканайць 10 заданняў]]></entry>
+    <entry id="achievement_town_fully_upgraded" arena_priority="1"><![CDATA[Цалкам палепшыць горад]]></entry>
+    <entry id="achievement_town_fully_upgraded_completed" arena_priority="1"><![CDATA[Цалкам палепшыць горад]]></entry>
+    <entry id="achievement_welcome_home" arena_priority="1"><![CDATA[*Прыбыцць ў Паселішча]]></entry>
+    <entry id="achievement_welcome_home_completed" arena_priority="1"><![CDATA[*Прыбыцць ў Паселішча]]></entry>
+    <entry id="arena_estate_title" arena_priority="1"><![CDATA[The Butcher's Circus]]></entry>
+    <entry id="banner_piece_arena_achievementA_crest" arena_priority="1"><![CDATA[Герб прэтэндэнта]]></entry>
+    <entry id="banner_piece_arena_achievementA_headpiece" arena_priority="1"><![CDATA[Галаўны ўбор прэтэндэнта]]></entry>
+    <entry id="banner_piece_arena_achievementA_ornament" arena_priority="1"><![CDATA[Аздоба прэтэндэнта]]></entry>
+    <entry id="banner_piece_arena_achievementA_pole" arena_priority="1"><![CDATA[Калок прэтэндэнта]]></entry>
+    <entry id="banner_piece_arena_achievementA_trappings" arena_priority="1"><![CDATA[Атрыбуты прэтэндэнта]]></entry>
+    <entry id="banner_piece_arena_achievementB_aura" arena_priority="1"><![CDATA[Аўра саперніка]]></entry>
+    <entry id="banner_piece_arena_achievementB_crest" arena_priority="1"><![CDATA[Герб саперніка]]></entry>
+    <entry id="banner_piece_arena_achievementB_headpiece" arena_priority="1"><![CDATA[Галаўны ўбор саперніка]]></entry>
+    <entry id="banner_piece_arena_achievementB_ornament" arena_priority="1"><![CDATA[Аздоба саперніка]]></entry>
+    <entry id="banner_piece_arena_achievementB_pole" arena_priority="1"><![CDATA[Калок саперніка]]></entry>
+    <entry id="banner_piece_arena_achievementB_trappings" arena_priority="1"><![CDATA[Атрыбуты саперніка]]></entry>
+    <entry id="banner_piece_arena_achievementC_aura" arena_priority="1"><![CDATA[Аўра Гаспадара Арэны]]></entry>
+    <entry id="banner_piece_arena_achievementC_crest" arena_priority="1"><![CDATA[Герб Гаспадара Арэны]]></entry>
+    <entry id="banner_piece_arena_achievementC_headpiece" arena_priority="1"><![CDATA[Галаўны ўбор Гаспадара арэны]]></entry>
+    <entry id="banner_piece_arena_achievementC_ornament" arena_priority="1"><![CDATA[Аздоба Гаспадара Арэны]]></entry>
+    <entry id="banner_piece_arena_achievementC_trappings" arena_priority="1"><![CDATA[Атрыбуты Гаспадара Арэны]]></entry>
+    <entry id="banner_piece_arena_league1_headpiece" arena_priority="1"><![CDATA[Галаўны ўбор Лігі пачаткоўцаў]]></entry>
+    <entry id="banner_piece_arena_league2_headpiece" arena_priority="1"><![CDATA[Галаўны ўбор Лігі вучняў]]></entry>
+    <entry id="banner_piece_arena_league3_headpiece" arena_priority="1"><![CDATA[Галаўны ўбор Лігі ветэранаў]]></entry>
+    <entry id="banner_piece_arena_league4_headpiece" arena_priority="1"><![CDATA[Галаўны ўбор Лігі чэмпіёнаў]]></entry>
+    <entry id="banner_piece_arena_league5_headpiece" arena_priority="1"><![CDATA[Галаўны ўбор Найзмрачнейшай лігі]]></entry>
+    <entry id="banner_piece_arena_prestigeA_crest" arena_priority="1"><![CDATA[Герб Скандаліста]]></entry>
+    <entry id="banner_piece_arena_prestigeA_headpiece" arena_priority="1"><![CDATA[Галаўны ўбор Скандаліста]]></entry>
+    <entry id="banner_piece_arena_prestigeA_ornament" arena_priority="1"><![CDATA[Аздоба Скандаліста]]></entry>
+    <entry id="banner_piece_arena_prestigeA_pole" arena_priority="1"><![CDATA[Калок Скандаліста]]></entry>
+    <entry id="banner_piece_arena_prestigeA_trappings" arena_priority="1"><![CDATA[Атрыбуты Скандаліста]]></entry>
+    <entry id="banner_piece_arena_prestigeB_aura" arena_priority="1"><![CDATA[Славутая аўра]]></entry>
+    <entry id="banner_piece_arena_prestigeB_crest" arena_priority="1"><![CDATA[Славуты герб]]></entry>
+    <entry id="banner_piece_arena_prestigeB_ornament" arena_priority="1"><![CDATA[Славутая аздоба]]></entry>
+    <entry id="banner_piece_arena_prestigeB_pole" arena_priority="1"><![CDATA[Славуты калок]]></entry>
+    <entry id="banner_piece_arena_prestigeC_aura" arena_priority="1"><![CDATA[Аўра Гладыятара]]></entry>
+    <entry id="banner_piece_arena_prestigeC_crest" arena_priority="1"><![CDATA[Герб Гладыятара]]></entry>
+    <entry id="banner_piece_arena_prestigeC_headpiece" arena_priority="1"><![CDATA[Галаўны ўбор Гладыятара]]></entry>
+    <entry id="banner_piece_arena_prestigeC_ornament" arena_priority="1"><![CDATA[Гладыятарская аздоба]]></entry>
+    <entry id="banner_piece_arena_prestigeD_aura" arena_priority="1"><![CDATA[Прэстыжная аўра]]></entry>
+    <entry id="banner_piece_arena_prestigeD_crest" arena_priority="1"><![CDATA[Прэстыжны герб]]></entry>
+    <entry id="banner_piece_arena_prestigeD_headpiece" arena_priority="1"><![CDATA[Прэстыжны галаўны ўбор]]></entry>
+    <entry id="banner_piece_arena_prestigeD_ornament" arena_priority="1"><![CDATA[Прэстыжная аздоба]]></entry>
+    <entry id="banner_piece_arena_prestigeD_trappings" arena_priority="1"><![CDATA[Прэстыжныя атрыбуты]]></entry>
+    <entry id="banner_piece_boss_cannon_trappings" arena_priority="1"><![CDATA[8-фунтовы атрыбут]]></entry>
+    <entry id="banner_piece_boss_collector_crest" arena_priority="1"><![CDATA[Герб калекцыянера]]></entry>
+    <entry id="banner_piece_boss_drowned_crest" arena_priority="1"><![CDATA[Патанулы герб]]></entry>
+    <entry id="banner_piece_boss_formless_crest" arena_priority="1"><![CDATA[Герб плоці]]></entry>
+    <entry id="banner_piece_boss_hag_trappings" arena_priority="1"><![CDATA[Атрыбут лёсу]]></entry>
+    <entry id="banner_piece_boss_necromancer_pole" arena_priority="1"><![CDATA[Няўрымслівы калок]]></entry>
+    <entry id="banner_piece_boss_prophet_headpiece" arena_priority="1"><![CDATA[Ганебны галаўны ўбор]]></entry>
+    <entry id="banner_piece_boss_sapper_trappings" arena_priority="1"><![CDATA[Атрыбуты Ввульфа]]></entry>
+    <entry id="banner_piece_boss_shambler_headpiece" arena_priority="1"><![CDATA[Звілісты галаўны ўбор]]></entry>
+    <entry id="banner_piece_boss_siren_headpiece" arena_priority="1"><![CDATA[Марскі галаўны ўбор]]></entry>
+    <entry id="banner_piece_boss_swine_headpiece" arena_priority="1"><![CDATA[Галаўны ўбор узурпатара]]></entry>
+    <entry id="banner_piece_campaign_easy_crest" arena_priority="1"><![CDATA[Герб Маёнтка]]></entry>
+    <entry id="banner_piece_campaign_easy_headpiece" arena_priority="1"><![CDATA[Маёнткавы галаўны ўбор]]></entry>
+    <entry id="banner_piece_campaign_easy_ornament" arena_priority="1"><![CDATA[Маёнткавая аздоба]]></entry>
+    <entry id="banner_piece_campaign_hard_crest" arena_priority="1"><![CDATA[Герб Найзмрачнейшага падзямелля]]></entry>
+    <entry id="banner_piece_campaign_hard_headpiece" arena_priority="1"><![CDATA[Галаўны ўбор Чырвонага Крука]]></entry>
+    <entry id="banner_piece_campaign_hard_ornament" arena_priority="1"><![CDATA[Аздоба Найзмрачнейшага падзямелля]]></entry>
+    <entry id="banner_piece_campaign_hard_pole" arena_priority="1"><![CDATA[Калок Найзмрачнейшага падзямелля]]></entry>
+    <entry id="banner_piece_cc_aura" arena_priority="1"><![CDATA[Аўра вампіра]]></entry>
+    <entry id="banner_piece_cc_crest" arena_priority="1"><![CDATA[Герб вампіра]]></entry>
+    <entry id="banner_piece_cc_headpiece" arena_priority="1"><![CDATA[Галаўны ўбор вампіра]]></entry>
+    <entry id="banner_piece_cc_ornament" arena_priority="1"><![CDATA[Аздоба вампіра]]></entry>
+    <entry id="banner_piece_cc_trappings" arena_priority="1"><![CDATA[Атрыбуты ваміпіра]]></entry>
+    <entry id="banner_piece_com_aura" arena_priority="1"><![CDATA[Праломленая аўра]]></entry>
+    <entry id="banner_piece_com_crest" arena_priority="1"><![CDATA[Зламаны герб]]></entry>
+    <entry id="banner_piece_com_headpiece" arena_priority="1"><![CDATA[Галаўны ўбор Спячага]]></entry>
+    <entry id="banner_piece_com_ornament" arena_priority="1"><![CDATA[Крыштальная аздоба]]></entry>
+    <entry id="banner_piece_com_pole" arena_priority="1"><![CDATA[Зламаны калок]]></entry>
+    <entry id="banner_piece_com_trappings" arena_priority="1"><![CDATA[Крышталічная аздоба]]></entry>
+    <entry id="banner_piece_default_crest" arena_priority="1"><![CDATA[Звычайны герб]]></entry>
+    <entry id="banner_piece_default_headpiece" arena_priority="1"><![CDATA[Звычайны галаўны ўбор]]></entry>
+    <entry id="banner_piece_default_ornament" arena_priority="1"><![CDATA[Звычайная аздоба]]></entry>
+    <entry id="banner_piece_default_pole" arena_priority="1"><![CDATA[Звычайны калок]]></entry>
+    <entry id="banner_piece_empty_aura" arena_priority="1"><![CDATA[Няма аўры]]></entry>
+    <entry id="banner_piece_empty_trappings" arena_priority="1"><![CDATA[Няма атрыбутаў]]></entry>
+    <entry id="banner_piece_founder_aura" arena_priority="1"><![CDATA[Аўра заснавальніка]]></entry>
+    <entry id="banner_piece_founder_crest" arena_priority="1"><![CDATA[Герб заснавальніка]]></entry>
+    <entry id="banner_piece_founder_headpiece" arena_priority="1"><![CDATA[Галаўны ўбор заснавальніка]]></entry>
+    <entry id="banner_piece_founder_ornament" arena_priority="1"><![CDATA[Аздоба заснавальніка]]></entry>
+    <entry id="banner_piece_founder_pole" arena_priority="1"><![CDATA[Калок заснавальніка]]></entry>
+    <entry id="banner_piece_founder_trappings" arena_priority="1"><![CDATA[Атрыбуты заснавальніка]]></entry>
+    <entry id="banner_piece_warrens_headpiece" arena_priority="1"><![CDATA[Крывавы Галаўны ўбор]]></entry>
+    <entry id="banner_piece_weald_aura" arena_priority="1"><![CDATA[Грыбная аўра]]></entry>
+    <entry id="banner_piece_weald_pole" arena_priority="1"><![CDATA[Хісткі калок]]></entry>
+    <entry id="banner_piece_weald_trappings" arena_priority="1"><![CDATA[Грыбныя атрыбуты]]></entry>
+    <entry id="banner_piece_rarity_comet" arena_priority="1"><![CDATA[Крышталічны]]></entry>
+    <entry id="banner_piece_rarity_common" arena_priority="1"><![CDATA[Агульны]]></entry>
+    <entry id="banner_piece_rarity_crimson_court" arena_priority="1"><![CDATA[Барвовы двор]]></entry>
+    <entry id="banner_piece_rarity_founder" arena_priority="1"><![CDATA[Заснавальнік]]></entry>
+    <entry id="banner_piece_rarity_rare" arena_priority="1"><![CDATA[Рэдкі]]></entry>
+    <entry id="banner_piece_rarity_uncommon" arena_priority="1"><![CDATA[Незвычайны]]></entry>
+    <entry id="banner_piece_rarity_very_common" arena_priority="1"><![CDATA[Вельмі просты]]></entry>
+    <entry id="banner_piece_rarity_very_rare" arena_priority="1"><![CDATA[Вельмі рэдкі]]></entry>
+    <entry id="buff_bsrc_daze" arena_priority="1"><![CDATA[{colour_start|stun}Ашаламленне{colour_end}]]></entry>
+    <entry id="buff_bsrc_last_hero" arena_priority="1"><![CDATA[{colour_start|buff}Апошні жывы герой{colour_end}]]></entry>
+    <entry id="buff_rule_data_tooltip_dazed" arena_priority="1"><![CDATA[{colour_start|stun}Ашаломленнасць {colour_end}]]></entry>
+    <entry id="buff_rule_data_tooltip_afflicted" arena_priority="1"><![CDATA[{colour_start|afflicted}Пакута{colour_end}]]></entry>
+    <entry id="buff_rule_data_tooltip_virtued" arena_priority="1"><![CDATA[{colour_start|virtue}Душэўны ўздым{colour_end}]]></entry>
+    <entry id="buff_rule_tooltip_activated_first" arena_priority="1"><![CDATA[%s, калі дзейнічае першым]]></entry>
+    <entry id="buff_rule_tooltip_activated_last" arena_priority="1"><![CDATA[%s, калі дзейнічае апошнім]]></entry>
+    <entry id="buff_rule_tooltip_is_guarding" arena_priority="1"><![CDATA[%s падчас аховы]]></entry>
+    <entry id="buff_rule_tooltip_ondeathsdoorenter" arena_priority="1"><![CDATA[%s падчас Дзвярэй смерці]]></entry>
+    <entry id="buff_rule_tooltip_target_hpbelow" arena_priority="1"><![CDATA[{?buff}%s, калі ПЗ ніжэй за {?hpthreshold}%d%%]]></entry>
+    <entry id="buff_stat_tooltip_combat_stat_add_damage_low" arena_priority="1"><![CDATA[%+d УРН]]></entry>
+    <entry id="buff_stat_tooltip_hp_heal_dot_duration_percent" arena_priority="1"><![CDATA[%+d%% да працягласці {colour_start|healhp}лекавання{colour_end}]]></entry>
+    <entry id="buff_stat_tooltip_buff_duration_percent" arena_priority="1"><![CDATA[%+d%% да працягласці {colour_start|buff}ўзмацнення{colour_end}]]></entry>
+    <entry id="tray_icon_tooltip_buff_duration_quest_end_format" arena_priority="1"><![CDATA[%s (Бітва)]]></entry>
+    <entry id="tray_icon_tooltip_buff_duration_quest_not_complete_format" arena_priority="1"><![CDATA[%s (Бітва)]]></entry>
+    <entry id="tray_icon_tooltip_buff_until_end_of_raid_format" arena_priority="1"><![CDATA[%s (Бітва)]]></entry>
+    <entry id="buff_stat_tooltip_ignore_guard" arena_priority="1"><![CDATA[Ігнараваць {colour_start|guard}Варту{colour_end}]]></entry>
+    <entry id="buff_stat_tooltip_deathblow_chance" arena_priority="1"><![CDATA[%+d%% да шанцу нанясення {colour_start|deathblow}Смяротнага ўдару{colour_end}]]></entry>
+    <entry id="buff_stat_tooltip_guard_duration_percent" arena_priority="1"><![CDATA[%+d%% да працягласці {colour_start|guard}Варты{colour_end}]]></entry>
+    <entry id="buff_stat_tooltip_heartattack_stress_heal_percent" arena_priority="1"><![CDATA[%+d%% да лячэння {colour_start|stress}Стрэсу{colour_end} ад Сардэчнага прыступу]]></entry>
+    <entry id="buff_stat_tooltip_hp_dot_bleed_duration_percent" arena_priority="1"><![CDATA[%+d%% да працягласці {colour_start|bleed}Крывацёку{colour_end}]]></entry>
+    <entry id="buff_stat_tooltip_hp_dot_poison_duration_percent" arena_priority="1"><![CDATA[%+d%% да працягласці {colour_start|blight}Атручвання{colour_end}]]></entry>
+    <entry id="buff_stat_tooltip_resistance_stun" arena_priority="1"><![CDATA[%+d%% да супраціўленню {colour_start|stun}Аглушэнню {colour_end}]]></entry>
+    <entry id="buff_stat_tooltip_riposte_duration_percent" arena_priority="1"><![CDATA[%+d%% да працягласці {colour_start|riposte}Парыравання{colour_end}]]></entry>
+    <entry id="buff_stat_tooltip_stress_dmg_percent_effect" arena_priority="1"><![CDATA[%+d%% да выкліканага {colour_start|stress}Стрэсу{colour_end}]]></entry>
+    <entry id="buff_stat_tooltip_stress_dmg_received_percent" arena_priority="1"><![CDATA[%+d%% да атрыманага {colour_start|stress}Стрэсу{colour_end}]]></entry>
+    <entry id="buff_stat_tooltip_stress_dot_duration_percent" arena_priority="1"><![CDATA[%+d%% да працягласці {colour_start|stress}Жаху{colour_end}]]></entry>
+    <entry id="buff_stat_tooltip_stress_heal_percent" arena_priority="1"><![CDATA[%+d%% да навыкаў зняцця {colour_start|stress}Стрэсу{colour_end}]]></entry>
+    <entry id="buff_stat_tooltip_stun_chance" arena_priority="1"><![CDATA[%+d%% да шанцу {colour_start|stun}Аглушыць/Ашаламіць{colour_end}]]></entry>
+    <entry id="character_title_stats_and_resistances" arena_priority="1"><![CDATA[Базавая статыстыка і супраціўленне]]></entry>
+    <entry id="character_title_trinkets" arena_priority="1"><![CDATA[Упрыгажэнне]]></entry>
+    <entry id="combat_skill_name_antiquarian_cower" arena_priority="1"><![CDATA[Схавацца]]></entry>
+    <entry id="combat_skill_name_antiquarian_fortifying_vapours" arena_priority="1"><![CDATA[Амаладжальныя пары]]></entry>
+    <entry id="combat_skill_name_arbalest_flare" arena_priority="1"><![CDATA[Яркая ўспышка]]></entry>
+    <entry id="combat_skill_name_crusader_battle_heal" arena_priority="1"><![CDATA[Палымяны сцяг]]></entry>
+    <entry id="combat_skill_name_crusader_bulwark_of_faith" arena_priority="1"><![CDATA[Аплот Святла]]></entry>
+    <entry id="combat_skill_name_grave_robber_poison_dart" arena_priority="1"><![CDATA[Панічныя дроцікі]]></entry>
+    <entry id="combat_skill_name_hellion_barbaric_yawp" arena_priority="1"><![CDATA[Застрашальны ЛЯМАНТ!]]></entry>
+    <entry id="combat_skill_name_highwayman_take_aim" arena_priority="1"><![CDATA[Вендэта]]></entry>
+    <entry id="combat_skill_name_jester_slice_off" arena_priority="1"><![CDATA[Смяротнае раненне]]></entry>
+    <entry id="combat_skill_name_musketeer_sidearm" arena_priority="1"><![CDATA[Хуткая рэакцыя]]></entry>
+    <entry id="combat_skill_name_musketeer_skeet_shot" arena_priority="1"><![CDATA[Далёкі стрэл]]></entry>
+    <entry id="combat_skill_name_occultist_stygian_embrace" arena_priority="1"><![CDATA[Абдымкі цемры]]></entry>
+    <entry id="coinflip_first_format" arena_priority="1"><![CDATA[Спачатку дзейнічае %s]]></entry>
+    <entry id="daze_ability_description" arena_priority="1"><![CDATA[{colour_start|stun}АШАЛОМЛЕНЫ{colour_end} Не можа дзейнічаць да саюзнікаў, якія не ашаломлены.]]></entry>
+    <entry id="effect_tooltip_undaze" arena_priority="1"><![CDATA[Скінуць {colour_start|stun}Ашаламленне {colour_end}]]></entry>
+    <entry id="effect_tooltip_clear_stress_dot" arena_priority="1"><![CDATA[Скінуць {colour_start|стрэс}Жах{colour_end}]]></entry>
+    <entry id="effect_tooltip_cure_bleed" arena_priority="1"><![CDATA[Спыніць {colour_start|bleed}Крывацёк{colour_end}]]></entry>
+    <entry id="effect_tooltip_cure_debuff" arena_priority="1"><![CDATA[Скінуць {colour_start|debuff}Паслабленні{colour_end}]]></entry>
+    <entry id="effect_tooltip_cure_poison" arena_priority="1"><![CDATA[Пазбавіцца ад {colour_start|blight}Атруты{colour_end}]]></entry>
+    <entry id="effect_tooltip_daze" arena_priority="1"><![CDATA[{colour_start|ашаламленне}Ашаламленне{colour_end}]]></entry>
+    <entry id="effect_tooltip_daze_format" arena_priority="1"><![CDATA[на %d р.]]></entry>
+    <entry id="effect_tooltip_hp_heal_party_dot_format" arena_priority="1"><![CDATA[{colour_start|healhp}Вылечыць{colour_end} атрад на %d пункт./раўнд за %d р.]]></entry>
+    <entry id="effect_tooltip_kill_enemy_type" arena_priority="1"><![CDATA[Забівае ворагаў: %ss]]></entry>
+    <entry id="effect_tooltip_party_other" arena_priority="1"><![CDATA[Саюзнікі:]]></entry>
+    <entry id="effect_tooltip_stress_dot_format" arena_priority="1"><![CDATA[{colour_start|stress}Жах {colour_end}%+d {colour_start|stress}стрэсу{colour_end}/раўнд на %d раўндаў]]></entry>
+    <entry id="effect_tooltip_stress_format" arena_priority="1"><![CDATA[Нанесці {colour_start|стрэс}Стрэсу {colour_end}%+d]]></entry>
+    <entry id="effect_tooltip_target_enemy_group" arena_priority="1"><![CDATA[Усе ворагі:]]></entry>
+    <entry id="hold_to_activate_hero" arena_priority="1"><![CDATA[ТРЫМАЙЦЕ, КАБ АКТЫВАВАЦЬ ГЕРОЯ]]></entry>
+    <entry id="menu_options_element_trinket_warning" arena_priority="1"><![CDATA[Папярэджанне аб цыркавой упрыгажэнні]]></entry>
+    <entry id="message_select_a_friend" arena_priority="1"><![CDATA[Вы павінны выбраць сябра, каб кінуць выклік!]]></entry>
+    <entry id="message_can_not_change_after_fight" arena_priority="1"><![CDATA[Вы не можаце змяніць герояў у вашай групе пасля ўступлення ў бой!]]></entry>
+    <entry id="message_not_full_party" arena_priority="1"><![CDATA[Трэба, каб атрад быў поўны!]]></entry>
+    <entry id="message_not_full_skills" arena_priority="1"><![CDATA[Вам трэба выбраць чатыры навыкі!]]></entry>
+    <entry id="message_not_trinkets_equipped" arena_priority="1"><![CDATA[Вашым героям можа не хапаць упрыгажэнняў. Вы ўпэўнены?]]></entry>
+    <entry id="pass_ability_description_stunned" arena_priority="1"><![CDATA[ПРОПУСК ХОДА (АГЛУШЭННЕ) Скарыстайце дзеянне, каб прапусціць ход. Не выклікае стрэсу.]]></entry>
+    <entry id="raid_results_progression_return_to_circus" arena_priority="1"><![CDATA[Вярнуцца ў Цырк]]></entry>
+    <entry id="remotes_list_tooltip_refresh" arena_priority="1"><![CDATA[Абнаўленне спісу сяброў...]]></entry>
+    <entry id="resistance_name_stun" arena_priority="1"><![CDATA[{colour_start|stun}Аглушэнне{colour_end}]]></entry>
+    <entry id="resistance_name_stun_daze" arena_priority="1"><![CDATA[{colour_start|stun}Аглушэнне{colour_end}]]></entry>
+    <entry id="resistance_name_deathblow" arena_priority="1"><![CDATA[{colour_start|deathblow}Смяротны ўдар{colour_end}]]></entry>
+    <entry id="retreat_combat_tooltip" arena_priority="1"><![CDATA[Капітуляваць]]></entry>
+    <entry id="retreat_confirm_battle_arena_match_reported" arena_priority="1"><![CDATA[Скарга аб матчы даслана.]]></entry>
+    <entry id="retreat_confirm_battle_arena_opponent_left" arena_priority="1"><![CDATA[Сапернік выйшаў з бойкі!]]></entry>
+    <entry id="retreat_confirm_battle_arena_question" arena_priority="1"><![CDATA[Вы ўпэўнены?]]></entry>
+    <entry id="retreat_confirm_battle_arena_yes" arena_priority="1"><![CDATA[Капітуляваць]]></entry>
+    <entry id="retreat_confirm_battle_arena_no" arena_priority="1"><![CDATA[Працягваць барацьбу]]></entry>
+    <entry id="retreat_confirm_battle_arena_opponent_surrendered" arena_priority="1"><![CDATA[%s капітулюе!]]></entry>
+    <entry id="reward_earned_achievement_format" arena_priority="1"><![CDATA[Завершана: %s]]></entry>
+    <entry id="reward_earned_prestige_format" arena_priority="1"><![CDATA[Завершана: узровень прэстыжу %u]]></entry>
+    <entry id="reward_locked_achievement_format" arena_priority="1"><![CDATA[Разблакіраваць: %s]]></entry>
+    <entry id="reward_locked_prestige_format" arena_priority="1"><![CDATA[Разблакіраваць: дасягнуць узроўню прэстыжу %u]]></entry>
+    <entry id="str_arena_torch_tooltip_title" arena_priority="1"><![CDATA[Жар бітвы]]></entry>
+    <entry id="str_arena_torch_tooltip_body" arena_priority="1"><![CDATA[Калі факел згарае, бягучы гулец прапускае сваю чаргу.]]></entry>
+    <entry id="str_banner_customization_cannot_save" arena_priority="1"><![CDATA[Вы не можаце ўжыць змены, таму што вы праглядаеце штандар, які вы яшчэ не разблакіравалі.]]></entry>
+    <entry id="str_banner_customization_exit_unsaved" arena_priority="1"><![CDATA[У вашым штандары ёсць незахаваныя змены. Гэтыя змены будуць страчаны, калі вы выйдзеце. Вы ўпэўнены?]]></entry>
+    <entry id="str_banner_customization_exit_unsaved_ans_no" arena_priority="1"><![CDATA[Не]]></entry>
+    <entry id="str_banner_customization_exit_unsaved_ans_yes" arena_priority="1"><![CDATA[Так]]></entry>
+    <entry id="str_banner_customization_save" arena_priority="1"><![CDATA[Ужыць усё]]></entry>
+    <entry id="str_banner_customization_summary" arena_priority="1"><![CDATA[Змяніць штандар]]></entry>
+    <entry id="str_arena_tip" arena_priority="1"><![CDATA[Вы атрымаеце больш прэстыжу, калі выйграеце, і нават больш за бездакорную перамогу.]]></entry>
+    <entry id="str_arena_tip" arena_priority="1"><![CDATA[Калі вы прайграеце, паспрабуйце забіць як мага больш ворагаў! Ваш прэстыж будзе расці, нават калі вашы героі загінуць.]]></entry>
+    <entry id="str_arena_tip" arena_priority="1"><![CDATA[Кожны герой можа дзейнічаць толькі адзін раз за раўнд. Плануйце стратэгію загадзя!]]></entry>
+    <entry id="str_arena_tip" arena_priority="1"><![CDATA[У Цырку вашы героі могуць дзейнічаць у любым парадку. Выбірайце з розумам!]]></entry>
+    <entry id="str_arena_tip" arena_priority="1"><![CDATA[У вас ёсць толькі абмежаваны час, каб вызначыцца з курсам дзеянняў. Калі факел згарае, ваша чарга страчана.]]></entry>
+    <entry id="str_arena_tip" arena_priority="1"><![CDATA[Ашаломлены герой можа дзейнічаць толькі пасля ўсіх астатніх герояў у сваёй групе.]]></entry>
+    <entry id="str_arena_tip" arena_priority="1"><![CDATA[Націсніце і ўтрымлівайце героя ў пачатку сваёй чаргі, каб актываваць яго.]]></entry>
+    <entry id="str_arena_tip" arena_priority="1"><![CDATA[Вы можаце агледзець сваіх герояў у любы момант, у тым ліку падчас ходу суперніка. Выкарыстоўвайце гэта, каб планаваць усё загадзя!]]></entry>
+    <entry id="str_arena_tip" arena_priority="1"><![CDATA[Выкарыстоўвайце стрэс, каб давесці апанентаў да мяжы вар'яцтва. Пацярпелы вораг менш эфектыўны ў баі.]]></entry>
+    <entry id="str_circus_tip" arena_priority="1"><![CDATA[Ваш ранг і прэстыж у Цырку пераходзяць з адной кампаніі ў наступную.]]></entry>
+    <entry id="str_circus_tip" arena_priority="1"><![CDATA[Па меры таго, як ваш прэстыж расце, Гаспадар Арэны дазволіць вам выкарыстоўваць новыя ўпрыгажэнні на рынгу.]]></entry>
+    <entry id="str_circus_tip" arena_priority="1"><![CDATA[Героі і ўпрыгажэнні ў Цырку асобныя ад Гамлета і не могуць быць страчаны ў баі.]]></entry>
+    <entry id="str_circus_tip" arena_priority="1"><![CDATA[Вы можаце праглядзець фрагменты штандара ў канструктары штандараў, нават калі вы яшчэ не валодаеце імі.]]></entry>
+    <entry id="str_circus_tip" arena_priority="1"><![CDATA[Героі маюць іншыя навыкі і характарыстыкі ў Цырку, чым у адзіночнай кампаніі.]]></entry>
+    <entry id="str_close_party_setup_ans_no" arena_priority="1"><![CDATA[Не]]></entry>
+    <entry id="str_close_party_setup_ans_yes" arena_priority="1"><![CDATA[Адключыцца]]></entry>
+    <entry id="str_close_party_setup_format" arena_priority="1"><![CDATA[Вы ўпэўнены, што хочаце адключыцца ад %s?]]></entry>
+    <entry id="str_connection_error" arena_priority="1"><![CDATA[Памылка злучэння]]></entry>
+    <entry id="str_connecting" arena_priority="1"><![CDATA[Злучэнне...]]></entry>
+    <entry id="str_confirm_dlc_details_arena_mp" arena_priority="1"><![CDATA[Дапаўненне The Butcher's Circus дадае новую зону Цырк і шматкарыстальніцкія баі.]]></entry>
+    <entry id="str_desync_detected_format" arena_priority="1"><![CDATA[Праблема разсінхранізацыі спыніла ваш матч. Журнал быў адпраўлены, каб дапамагчы нам вырашыць праблему.]]></entry>
+    <entry id="str_direct_challenge_connection_error" arena_priority="1"><![CDATA[Збой прамога падключэння да бітвы!]]></entry>
+    <entry id="str_direct_challenge_choose_friend" arena_priority="1"><![CDATA[Адпраўка выкліку...]]></entry>
+    <entry id="str_direct_challenge_choose_heroes" arena_priority="1"><![CDATA[Абярыце герояў]]></entry>
+    <entry id="str_direct_challenge_friend_state_0" arena_priority="1"><![CDATA[Афлайн]]></entry>
+    <entry id="str_direct_challenge_friend_state_1" arena_priority="1"><![CDATA[Анлайн - на рынгу]]></entry>
+    <entry id="str_direct_challenge_friend_state_2" arena_priority="1"><![CDATA[Анлайн]]></entry>
+    <entry id="str_direct_challenge_friend_state_3" arena_priority="1"><![CDATA[Анлайн - ў Найзмрачнейшым падзямеллі]]></entry>
+    <entry id="str_direct_challenge_waiting_message" arena_priority="1"><![CDATA[Чакаем суперніка...]]></entry>
+    <entry id="str_dlc_title_arena_mp" arena_priority="1"><![CDATA[Цырк Мясніка]]></entry>
+    <entry id="str_dueling_grounds_summary" arena_priority="1"><![CDATA[Кінутыя выклікі]]></entry>
+    <entry id="str_hamlet_summary" arena_priority="1"><![CDATA[Вярнуцца ў Паселішча]]></entry>
+    <entry id="str_fight_summary" arena_priority="1"><![CDATA[Знайсці Матч]]></entry>
+    <entry id="str_league_novice" arena_priority="1"><![CDATA[Навічкі]]></entry>
+    <entry id="str_league_apprentice" arena_priority="1"><![CDATA[Вучні]]></entry>
+    <entry id="str_league_veteran" arena_priority="1"><![CDATA[Ветэраны]]></entry>
+    <entry id="str_league_champion" arena_priority="1"><![CDATA[Чэмпіёны]]></entry>
+    <entry id="str_league_darkest" arena_priority="1"><![CDATA[Найзмрачнейшая]]></entry>
+    <entry id="str_heart_attack_berserk" arena_priority="1"><![CDATA[Цяжар... гэта занадта!]]></entry>
+    <entry id="str_heart_attack_berserk" arena_priority="1"><![CDATA[Гэта правал... Я не магу гэтага цярпець.]]></entry>
+    <entry id="str_heart_attack_courageous" arena_priority="1"><![CDATA[Я СУСТРЭНУ СВОЙ ЛЁС ТВАРАМ У ТВАР!]]></entry>
+    <entry id="str_heart_attack_focused" arena_priority="1"><![CDATA[ЗМАГАЙСЯ ДА АПОШНЯГА ЎДЫХУ!]]></entry>
+    <entry id="str_heart_attack_powerful" arena_priority="1"><![CDATA[ГЭТА НЕ КАНЕЦ!]]></entry>
+    <entry id="str_heart_attack_stalwart" arena_priority="1"><![CDATA[(РЫПІЦЬ ЗУБАМІ)]]></entry>
+    <entry id="str_heart_attack_vigorous" arena_priority="1"><![CDATA[Я ПЕРЫЖЫВУ ГЭТА!]]></entry>
+    <entry id="str_inventory_title_trinkettaste_of_grandeur" arena_priority="1"><![CDATA[Смак Велічы]]></entry>
+    <entry id="str_inventory_title_trinketshattered_padlock" arena_priority="1"><![CDATA[Разбіты замок]]></entry>
+    <entry id="str_inventory_title_trinketwretch_cloak" arena_priority="1"><![CDATA[Плашч нягодніка]]></entry>
+    <entry id="str_inventory_title_trinketclasp_of_the_beast" arena_priority="1"><![CDATA[Абдымкі звера]]></entry>
+    <entry id="str_inventory_title_trinketspiked_chain" arena_priority="1"><![CDATA[Ланцуг з шыпамі]]></entry>
+    <entry id="str_inventory_title_trinketghoul_claw" arena_priority="1"><![CDATA[Кіпцюр ваўкалака]]></entry>
+    <entry id="str_inventory_title_trinketmateria_pestis" arena_priority="1"><![CDATA[Materia Pestis]]></entry>
+    <entry id="str_inventory_title_trinkettears_of_the_lost" arena_priority="1"><![CDATA[Слёзы Страчанага]]></entry>
+    <entry id="str_inventory_title_trinketblack_diamond_mirror" arena_priority="1"><![CDATA[Чорнае алмазнае люстэрка]]></entry>
+    <entry id="str_inventory_title_trinketimpossible_glyph" arena_priority="1"><![CDATA[Невераемны гліф]]></entry>
+    <entry id="str_inventory_title_trinketstabilizing_tiller" arena_priority="1"><![CDATA[Стабілізуючы румпель]]></entry>
+    <entry id="str_inventory_title_trinketpiercing_quarrel" arena_priority="1"><![CDATA[Вострыя балты]]></entry>
+    <entry id="str_inventory_title_trinketmedic_fullplate" arena_priority="1"><![CDATA[Даспех медыка]]></entry>
+    <entry id="str_inventory_title_trinketweighted_bolas" arena_priority="1"><![CDATA[Цяжкі Болас]]></entry>
+    <entry id="str_inventory_title_trinketbounty_notice" arena_priority="1"><![CDATA[Апавяшчэнне аб узнагародзе]]></entry>
+    <entry id="str_inventory_title_trinketheartseeker" arena_priority="1"><![CDATA[Сэрцаед]]></entry>
+    <entry id="str_inventory_title_trinketgrappling_mits" arena_priority="1"><![CDATA[Хапальныя рукавіцы]]></entry>
+    <entry id="str_inventory_title_trinketinfamous_visage" arena_priority="1"><![CDATA[Ганебнае Аблічча]]></entry>
+    <entry id="str_inventory_title_trinketsacred_blade" arena_priority="1"><![CDATA[Святы клінок]]></entry>
+    <entry id="str_inventory_title_trinketwrit_of_execution" arena_priority="1"><![CDATA[Наказ экзекуцыі]]></entry>
+    <entry id="str_inventory_title_trinketbattle_scarred_helm" arena_priority="1"><![CDATA[Памяты ў баях Шлем]]></entry>
+    <entry id="str_inventory_title_trinketglorious_standard" arena_priority="1"><![CDATA[Слаўны штандар]]></entry>
+    <entry id="str_inventory_title_trinketmadman_collar" arena_priority="1"><![CDATA[Ашыйнік вар'ята]]></entry>
+    <entry id="str_inventory_title_trinketcrown_of_thorns" arena_priority="1"><![CDATA[Цярновы вянок]]></entry>
+    <entry id="str_inventory_title_trinketgauntlet_of_absolution" arena_priority="1"><![CDATA[Пальчатка адпушчэння]]></entry>
+    <entry id="str_inventory_title_trinketlast_breath_collar" arena_priority="1"><![CDATA[Ашыйнік апошняга ўздыха]]></entry>
+    <entry id="str_inventory_title_trinketconfessor_gauntlet" arena_priority="1"><![CDATA[Рукавіца спавядальніка]]></entry>
+    <entry id="str_inventory_title_trinketwell_balanced_stiletto" arena_priority="1"><![CDATA[Добра збалансаваны стылет]]></entry>
+    <entry id="str_inventory_title_trinketcloak_and_dagger" arena_priority="1"><![CDATA[Плашч і кінжал]]></entry>
+    <entry id="str_inventory_title_trinketleather_bandolier" arena_priority="1"><![CDATA[Скураны патранташ]]></entry>
+    <entry id="str_inventory_title_trinketsatchel_of_dirty_tricks" arena_priority="1"><![CDATA[Сумка брудных трукаў]]></entry>
+    <entry id="str_inventory_title_trinketexecutioner_halberd" arena_priority="1"><![CDATA[Алебарда ката]]></entry>
+    <entry id="str_inventory_title_trinketsavage_gauntlets" arena_priority="1"><![CDATA[Пальчаткі Дзікуна ]]></entry>
+    <entry id="str_inventory_title_trinketrazor_pin" arena_priority="1"><![CDATA[Вострая шпілька]]></entry>
+    <entry id="str_inventory_title_trinketbone_vest" arena_priority="1"><![CDATA[Касцяная камізэлька]]></entry>
+    <entry id="str_inventory_title_trinketparrying_dagger" arena_priority="1"><![CDATA[Кінжал парыравання]]></entry>
+    <entry id="str_inventory_title_trinketduelist_pistol" arena_priority="1"><![CDATA[Пісталет дуэлянта]]></entry>
+    <entry id="str_inventory_title_trinketpowder_flask" arena_priority="1"><![CDATA[Шклянка пораху]]></entry>
+    <entry id="str_inventory_title_trinketgrim_bandana" arena_priority="1"><![CDATA[Змрочная бандана]]></entry>
+    <entry id="str_inventory_title_trinketsturdy_buckle" arena_priority="1"><![CDATA[Трывалая спражка]]></entry>
+    <entry id="str_inventory_title_trinketpadded_armguard" arena_priority="1"><![CDATA[Мяккі нарукаўнік]]></entry>
+    <entry id="str_inventory_title_trinkettattered_chewtoy" arena_priority="1"><![CDATA[Пацёртая жавальная цацка]]></entry>
+    <entry id="str_inventory_title_trinketsteel_tipped_cudgel" arena_priority="1"><![CDATA[Дубіна са сталёвым наканечнікам]]></entry>
+    <entry id="str_inventory_title_trinkettraining_whistle" arena_priority="1"><![CDATA[Вучэбны свісток]]></entry>
+    <entry id="str_inventory_title_trinketattack_whistle" arena_priority="1"><![CDATA[Свісток атакі]]></entry>
+    <entry id="str_inventory_title_trinketwell_tuned_lute" arena_priority="1"><![CDATA[Добра наладжаная лютня]]></entry>
+    <entry id="str_inventory_title_trinketharlequin_masque" arena_priority="1"><![CDATA[Маска Арлекіна]]></entry>
+    <entry id="str_inventory_title_trinketblood_red_coin" arena_priority="1"><![CDATA[Крывава-чырвоная манета]]></entry>
+    <entry id="str_inventory_title_trinketreaper_shroud" arena_priority="1"><![CDATA[Плашчаніца жняца]]></entry>
+    <entry id="str_inventory_title_trinketgladiator_mask" arena_priority="1"><![CDATA[Маска гладыятара]]></entry>
+    <entry id="str_inventory_title_trinketsharpening_stone" arena_priority="1"><![CDATA[Вастрыльны камень]]></entry>
+    <entry id="str_inventory_title_trinketinvigorating_balm" arena_priority="1"><![CDATA[Падбадзёрлівы бальзам]]></entry>
+    <entry id="str_inventory_title_trinketdurable_armlet" arena_priority="1"><![CDATA[Трывалы нарукаўнік]]></entry>
+    <entry id="str_inventory_title_trinketshield_spike" arena_priority="1"><![CDATA[Шчыт з шыпоўкамі]]></entry>
+    <entry id="str_inventory_title_trinketveteran_gauntlet" arena_priority="1"><![CDATA[Рукавіца ветэрана]]></entry>
+    <entry id="str_inventory_title_trinketinsignia_of_rank" arena_priority="1"><![CDATA[Знак рангу]]></entry>
+    <entry id="str_inventory_title_trinketprotector_kite" arena_priority="1"><![CDATA[Абарончы змей]]></entry>
+    <entry id="str_inventory_title_trinketsurvivor_eyepatch" arena_priority="1"><![CDATA[Павязка выжыўшага]]></entry>
+    <entry id="str_inventory_title_trinketiron_sights" arena_priority="1"><![CDATA[Жалезныя прыцэлы]]></entry>
+    <entry id="str_inventory_title_trinketminie_ball" arena_priority="1"><![CDATA[Куля Мінье]]></entry>
+    <entry id="str_inventory_title_trinkettincture_of_iodine" arena_priority="1"><![CDATA[Настойка ёду]]></entry>
+    <entry id="str_inventory_title_trinketbuckshot_cartridge" arena_priority="1"><![CDATA[Мяшочак куль]]></entry>
+    <entry id="str_inventory_title_trinketfleshbound_grimoire" arena_priority="1"><![CDATA[Грымуар з плоці]]></entry>
+    <entry id="str_inventory_title_trinkethand_of_glory" arena_priority="1"><![CDATA[Рука Славы]]></entry>
+    <entry id="str_inventory_title_trinketbleeding_skull" arena_priority="1"><![CDATA[Крывавы чэрап]]></entry>
+    <entry id="str_inventory_title_trinketsacrificial_kris" arena_priority="1"><![CDATA[Ахвярны кінжал]]></entry>
+    <entry id="str_inventory_title_trinketcalling_saltes" arena_priority="1"><![CDATA[Соль для выкліку]]></entry>
+    <entry id="str_inventory_title_trinketvolatile_concoction" arena_priority="1"><![CDATA[Лятучая сумесь]]></entry>
+    <entry id="str_inventory_title_trinketacrid_vial" arena_priority="1"><![CDATA[Едкі флакон]]></entry>
+    <entry id="str_inventory_title_trinketamputation_saw" arena_priority="1"><![CDATA[Піла для ампутацыі]]></entry>
+    <entry id="str_inventory_title_trinkethazard_mask" arena_priority="1"><![CDATA[Маска небяспекі]]></entry>
+    <entry id="str_inventory_title_trinketgraceful_anklet" arena_priority="1"><![CDATA[Зграбны бранзалет]]></entry>
+    <entry id="str_inventory_title_trinketscaled_shoulder" arena_priority="1"><![CDATA[Лускаватае плячо]]></entry>
+    <entry id="str_inventory_title_trinketviper_spear_tip" arena_priority="1"><![CDATA[Гадзюкавы наканечнік дзіды]]></entry>
+    <entry id="str_inventory_title_trinketfang_talisman" arena_priority="1"><![CDATA[Талісман з ікла]]></entry>
+    <entry id="str_inventory_title_trinketpurgation_talisman" arena_priority="1"><![CDATA[Талісман ачышчэння]]></entry>
+    <entry id="str_inventory_title_trinketidol_of_purity" arena_priority="1"><![CDATA[Ідал Чысціні]]></entry>
+    <entry id="str_inventory_title_trinketgleaming_breastplate" arena_priority="1"><![CDATA[Бліскучы нагруднік]]></entry>
+    <entry id="str_inventory_title_trinkettome_of_fury" arena_priority="1"><![CDATA[Фаліянт лютасці]]></entry>
+    <entry id="str_inventory_title_trinketnepenthe" arena_priority="1"><![CDATA[Зелле забыцця]]></entry>
+    <entry id="str_inventory_title_trinketnumbing_incense" arena_priority="1"><![CDATA[Ладан анямення]]></entry>
+    <entry id="str_inventory_title_trinketrotting_trophy" arena_priority="1"><![CDATA[Гніючы трафей]]></entry>
+    <entry id="str_inventory_title_trinketpitfighter_helm" arena_priority="1"><![CDATA[Шлем байца]]></entry>
+    <entry id="str_inventory_title_trinketcrimson_hook" arena_priority="1"><![CDATA[Барвовы Крук]]></entry>
+    <entry id="str_inventory_title_trinketcarnival_masque" arena_priority="1"><![CDATA[Карнавальная маска]]></entry>
+    <entry id="str_inventory_title_trinketbrass_bugle" arena_priority="1"><![CDATA[Медны горн]]></entry>
+    <entry id="str_inventory_title_trinketexotic_snuff" arena_priority="1"><![CDATA[Экзатычны табак]]></entry>
+    <entry id="str_inventory_title_trinketrancid_cure_all" arena_priority="1"><![CDATA[З'едлівая панацэя]]></entry>
+    <entry id="str_inventory_title_trinketretarius_net" arena_priority="1"><![CDATA[Сетка Рэцыярыя]]></entry>
+    <entry id="str_inventory_title_trinketthe_finisher" arena_priority="1"><![CDATA[Дабівальшчык]]></entry>
+    <entry id="str_inventory_title_trinketeerie_eye" arena_priority="1"><![CDATA[Жудаснае вока]]></entry>
+    <entry id="str_inventory_title_trinketsanity_bane" arena_priority="1"><![CDATA[Згуба розуму]]></entry>
+    <entry id="str_inventory_title_trinketbrass_knuckles" arena_priority="1"><![CDATA[Медны Кастэт]]></entry>
+    <entry id="str_inventory_title_trinketspiked_bat" arena_priority="1"><![CDATA[Шыпаваная біта]]></entry>
+    <entry id="str_inventory_title_trinketmonkey_paw" arena_priority="1"><![CDATA[Лапа малпы]]></entry>
+    <entry id="str_inventory_title_trinketcrushed_hemlock" arena_priority="1"><![CDATA[Здробнены амежнік]]></entry>
+    <entry id="str_inventory_title_trinketbloodstained_gambeson" arena_priority="1"><![CDATA[Акрываўлены Гамбезон]]></entry>
+    <entry id="str_inventory_title_trinkettreated_bandage" arena_priority="1"><![CDATA[Апрацаваная павязка]]></entry>
+    <entry id="str_inventory_title_trinketgladiator_helmet" arena_priority="1"><![CDATA[Шлем гладыятара]]></entry>
+    <entry id="str_inventory_title_trinketjagged_chopper" arena_priority="1"><![CDATA[Зазубраны тапор]]></entry>
+    <entry id="str_inventory_title_trinketeagle_eye_talisman" arena_priority="1"><![CDATA[Талісман арлінага вока]]></entry>
+    <entry id="str_inventory_title_trinketankh_of_life" arena_priority="1"><![CDATA[Анкх жыцця]]></entry>
+    <entry id="str_inventory_title_trinketsilver_syringe" arena_priority="1"><![CDATA[Срэбны шпрыц]]></entry>
+    <entry id="str_inventory_title_trinkethunters_charm" arena_priority="1"><![CDATA[Падвеска паляўнічага]]></entry>
+    <entry id="str_invite_sent" arena_priority="1"><![CDATA[Запрашэнне адпраўлена!]]></entry>
+    <entry id="str_invite_error_server" arena_priority="1"><![CDATA[Узнікла праблема з прыняццем запрашэння: немагчыма падключыцца да сервера.]]></entry>
+    <entry id="str_invite_error_version" arena_priority="1"><![CDATA[Узнікла праблема з прыняццем запрашэння: абнавіце гульню!]]></entry>
+    <entry id="str_match_bot_name" arena_priority="1"><![CDATA[Супернік]]></entry>
+    <entry id="str_match_opponent_name" arena_priority="1"><![CDATA[Супернік]]></entry>
+    <entry id="str_matchmaking_against_bots" arena_priority="1"><![CDATA[Гуляць супраць ботаў]]></entry>
+    <entry id="str_matchmaking_current_time" arena_priority="1"><![CDATA[Час у чарзе:]]></entry>
+    <entry id="str_matchmaking_estimated_time" arena_priority="1"><![CDATA[Разліковы час у чарзе:]]></entry>
+    <entry id="str_matchmaking_state_0" arena_priority="1"><![CDATA[Чаканне злучэння...]]></entry>
+    <entry id="str_matchmaking_state_1" arena_priority="1"><![CDATA[Уступленне ў чаргу...]]></entry>
+    <entry id="str_matchmaking_state_2" arena_priority="1"><![CDATA[Пошук матчу...]]></entry>
+    <entry id="str_matchmaking_state_3" arena_priority="1"><![CDATA[Матч знойдзены!]]></entry>
+    <entry id="str_matchmaking_state_4" arena_priority="1"><![CDATA[Матч знойдзены!]]></entry>
+    <entry id="str_matchmaking_state_5" arena_priority="1"><![CDATA[Падключэнне да суперніка...]]></entry>
+    <entry id="str_matchmaking_state_6" arena_priority="1"><![CDATA[Памылка падключэнне.]]></entry>
+    <entry id="str_matchmaking_state_7" arena_priority="1"><![CDATA[Пошук ворагаў]]></entry>
+    <entry id="str_matchmaking_state_8" arena_priority="1"><![CDATA[Пошук ворагаў]]></entry>
+    <entry id="str_matchmaking_title" arena_priority="1"><![CDATA[Арэна]]></entry>
+    <entry id="str_networked_hero_usage_restriction_445700" arena_priority="1"><![CDATA[Патрабуецца дапаўненне The Musketeer]]></entry>
+    <entry id="str_networked_hero_usage_restriction_580100" arena_priority="1"><![CDATA[Патрабуецца дапаўненне The Crimson Court]]></entry>
+    <entry id="str_networked_hero_usage_restriction_702540" arena_priority="1"><![CDATA[Патрабуецца дапаўненне The Shieldbreaker]]></entry>
+    <entry id="str_old_version" arena_priority="1"><![CDATA[Немагчыма падключыцца да сервера: абнавіце гульню!]]></entry>
+    <entry id="str_open_store_445700" arena_priority="1"><![CDATA[Спампаваць дапаўненне The Musketeer]]></entry>
+    <entry id="str_open_store_580100" arena_priority="1"><![CDATA[Спампаваць дапаўненне The Crimson Court]]></entry>
+    <entry id="str_open_store_702540" arena_priority="1"><![CDATA[Спампаваць дапаўненне The Shieldbreaker]]></entry>
+    <entry id="str_party_setup_connection_title" arena_priority="1"><![CDATA[Падключэнне да]]></entry>
+    <entry id="str_party_setup_connection_title" arena_priority="1"><![CDATA[Падключэнне да]]></entry>
+    <entry id="str_party_setup_connection_title" arena_priority="1"><![CDATA[Падключэнне да]]></entry>
+    <entry id="str_party_setup_connection_title" arena_priority="1"><![CDATA[Падключэнне да]]></entry>
+    <entry id="str_prize_booth_open_banner_custom_ans_yes" arena_priority="1"><![CDATA[Так]]></entry>
+    <entry id="str_prize_booth_open_banner_custom_title" arena_priority="1"><![CDATA[Праглядзець %s у канструктары штандараў?]]></entry>
+    <entry id="str_prize_booth_prestige_title" arena_priority="1"><![CDATA[Прэстыж]]></entry>
+    <entry id="str_prize_booth_prestige_desc" arena_priority="1"><![CDATA[Рэпутацыя, пабудаваная на крыві і заваяваннях.]]></entry>
+    <entry id="str_prize_booth_prestige_info_format" arena_priority="1"><![CDATA[%u / %u прэстыжу да наступ. ўзроўню.]]></entry>
+    <entry id="str_prize_booth_prestige_info_max" arena_priority="1"><![CDATA[Ваш прэстыж не можа расці далей!]]></entry>
+    <entry id="str_prize_booth_summary" arena_priority="1"><![CDATA[Праглядзіце будучыя ўзнагароды]]></entry>
+    <entry id="str_rank_display_title" arena_priority="1"><![CDATA[Лігі]]></entry>
+    <entry id="str_rankings_current_rank_format" arena_priority="1"><![CDATA[Бягучы ранг: %s %s]]></entry>
+    <entry id="str_rankings_next_rank_format" arena_priority="1"><![CDATA[Наступны ранг: %s %s]]></entry>
+    <entry id="str_rankings_section_0" arena_priority="1"><![CDATA[Гісторыя матчаў]]></entry>
+    <entry id="str_rankings_section_1" arena_priority="1"><![CDATA[Гісторыя выклікаў]]></entry>
+    <entry id="str_rankings_stats_best_title" arena_priority="1"><![CDATA[Лепшае за ўвесь час:]]></entry>
+    <entry id="str_rankings_stats_season_end_format" arena_priority="1"><![CDATA[Сезон заканчваецца: %s]]></entry>
+    <entry id="str_rankings_summary" arena_priority="1"><![CDATA[Ранг і гісторыя матчаў]]></entry>
+    <entry id="str_rankings_time_ago_format" arena_priority="1"><![CDATA[%s назад]]></entry>
+    <entry id="str_rankings_time_d_format" arena_priority="1"><![CDATA[%d д.]]></entry>
+    <entry id="str_rankings_time_dh_format" arena_priority="1"><![CDATA[%d д. %d г.]]></entry>
+    <entry id="str_rankings_time_h_format" arena_priority="1"><![CDATA[%d г.]]></entry>
+    <entry id="str_rankings_time_hm_format" arena_priority="1"><![CDATA[%d г. %d хв.]]></entry>
+    <entry id="str_rankings_time_m_format" arena_priority="1"><![CDATA[%d хв.]]></entry>
+    <entry id="str_rankings_vs" arena_priority="1"><![CDATA[VS]]></entry>
+    <entry id="str_replay_combat_tutorial_ans_no" arena_priority="1"><![CDATA[Не]]></entry>
+    <entry id="str_replay_combat_tutorial_ans_yes" arena_priority="1"><![CDATA[Так]]></entry>
+    <entry id="str_replay_combat_tutorial_title" arena_priority="1"><![CDATA[Хочаце паўтарыць інструктаж па Цырку?]]></entry>
+    <entry id="str_results_continue" arena_priority="1"><![CDATA[Націсніце, каб працягнуць...]]></entry>
+    <entry id="str_results_prestige_points_format" arena_priority="1"><![CDATA[%+d пункт.]]></entry>
+    <entry id="str_results_prestige_rewards" arena_priority="1"><![CDATA[Узнагароды за прэстыж!]]></entry>
+    <entry id="str_results_prestige_reward_level_format" arena_priority="1"><![CDATA[Узр. %u]]></entry>
+    <entry id="str_results_prestige_reward_next_level_format" arena_priority="1"><![CDATA[Наст.узровень: %u пункт.]]></entry>
+    <entry id="str_results_rank_down" arena_priority="1"><![CDATA[НОВЫ РАНГ]]></entry>
+    <entry id="str_results_rank_title_format" arena_priority="1"><![CDATA[%s узровень %s]]></entry>
+    <entry id="str_results_rank_up" arena_priority="1"><![CDATA[НОВЫ РАНГ]]></entry>
+    <entry id="str_send_invite_ans_yes" arena_priority="1"><![CDATA[Адправіць запрашэнне]]></entry>
+    <entry id="str_send_invite_ans_no" arena_priority="1"><![CDATA[Адхіліць]]></entry>
+    <entry id="str_send_invite_title_format" arena_priority="1"><![CDATA[Адправіць запрашэнне ў Steam %s]]></entry>
+    <entry id="str_stalemate_lose" arena_priority="1"><![CDATA[Няўдачнік]]></entry>
+    <entry id="str_stalemate_title" arena_priority="1"><![CDATA[Патавая сітуацыя! Натоўп вырашыць...]]></entry>
+    <entry id="str_stalemate_win" arena_priority="1"><![CDATA[Пераможца]]></entry>
+    <entry id="str_stat_additional_monster" arena_priority="1"><![CDATA[Статус ворага]]></entry>
+    <entry id="str_steam_not_logged_in" arena_priority="1"><![CDATA[Не магу падключыцца да сервера: вы не ўвайшлі ў Steam!]]></entry>
+    <entry id="str_ui_daze" arena_priority="1"><![CDATA[Ашаламленне]]></entry>
+    <entry id="str_ui_daze_resist" arena_priority="1"><![CDATA[Супраціўленне]]></entry>
+    <entry id="str_ui_hero_crit" arena_priority="1"><![CDATA[Шанец крыт.удару]]></entry>
+    <entry id="str_ui_hero_dmg" arena_priority="1"><![CDATA[Нанесены УРН]]></entry>
+    <entry id="str_ui_hero_stress" arena_priority="1"><![CDATA[Нанесены стрэс]]></entry>
+    <entry id="str_ui_hero_to_deathblow" arena_priority="1"><![CDATA[Смяротны ўдар]]></entry>
+    <entry id="str_ui_hero_to_hit" arena_priority="1"><![CDATA[Шанец удару]]></entry>
+    <entry id="str_ui_reward_level" arena_priority="1"><![CDATA[Узровень прэстыжу %d]]></entry>
+    <entry id="str_ui_select_a_hero" arena_priority="1"><![CDATA[Выберыце героя]]></entry>
+    <entry id="str_vo_pit_loading_first_direct_0" arena_priority="1"><![CDATA[Вы выбралі гэтага ворага, не расчаруйцеся!]]></entry>
+    <entry id="str_vo_pit_loading_second_direct_0" arena_priority="1"><![CDATA[Дасведчанасць спараджае пагарду... і не даруе няўдач.]]></entry>
+    <entry id="str_vo_pit_arrive_after_0" arena_priority="1"><![CDATA[Кампанія можа пачакаць. Бойня кліча.]]></entry>
+    <entry id="str_vo_pit_coin_flip_win_0" arena_priority="1"><![CDATA[Шанец - рэч нясталая...]]></entry>
+    <entry id="str_vo_pit_coin_flip_lose_0" arena_priority="1"><![CDATA[Перавага за вамі!]]></entry>
+    <entry id="str_vo_pit_battle_start_01_0" arena_priority="1"><![CDATA[Спаборніцтва пачынаецца!]]></entry>
+    <entry id="str_vo_pit_battle_start_02_0" arena_priority="1"><![CDATA[Выцягніце клінкі з ножнаў!]]></entry>
+    <entry id="str_vo_pit_timer_start_player_01_0" arena_priority="1"><![CDATA[Наперад!]]></entry>
+    <entry id="str_vo_pit_timer_start_player_02_0" arena_priority="1"><![CDATA[Натоўп патрабуе сваёй порцыі!]]></entry>
+    <entry id="str_vo_pit_timer_start_enemy_01_0" arena_priority="1"><![CDATA[Ха-ха-ха!]]></entry>
+    <entry id="str_vo_pit_timer_start_enemy_02_0" arena_priority="1"><![CDATA[Ха!]]></entry>
+    <entry id="str_vo_pit_timer_start_enemy_03_0" arena_priority="1"><![CDATA[Фігляр збянтэжаны!]]></entry>
+    <entry id="str_vo_pit_timer_start_enemy_04_0" arena_priority="1"><![CDATA[Так так так, здаецца, блазен збянтэжаны!]]></entry>
+    <entry id="str_vo_pit_timer_expired_player_01_0" arena_priority="1"><![CDATA[Нерашучасць забівае хутчэй, чым сталь. Будзьце больш падрыхтаваныя.]]></entry>
+    <entry id="str_vo_pit_timer_expired_enemy_0" arena_priority="1"><![CDATA[У дурня няма ні плана, ні стратэгіі!]]></entry>
+    <entry id="str_vo_pit_turn_start_disadvantage_0" arena_priority="1"><![CDATA[Змагайцеся далей - натоўп любіць аўтсайдараў!]]></entry>
+    <entry id="str_vo_pit_last_hero_player_0" arena_priority="1"><![CDATA[У рэшце рэшт, мы ўсе паміраем у адзіноце.]]></entry>
+    <entry id="str_vo_pit_last_hero_enemy_0" arena_priority="1"><![CDATA[Гук апладысментаў нарастае, перамога блізка!]]></entry>
+    <entry id="str_vo_pit_last_hero_both_0" arena_priority="1"><![CDATA[Нехта. Павінен. Памерці.]]></entry>
+    <entry id="str_vo_pit_surrender_player_0" arena_priority="1"><![CDATA[Вы пазбавілі зброд відовішча і раззлавалі яго...]]></entry>
+    <entry id="str_vo_pit_surrender_enemy_0" arena_priority="1"><![CDATA[Іх рашучасць зламана! Вы выйгралі!]]></entry>
+    <entry id="str_vo_pit_loading_0" arena_priority="1"><![CDATA[Натоўп у захапленні ад праліцця крыві!]]></entry>
+    <entry id="str_vo_pit_match_queue_0" arena_priority="1"><![CDATA[Гаспадар Арэны кліча прэтэндэнта!]]></entry>
+    <entry id="str_vo_pit_first_match_queue_01_0" arena_priority="1"><![CDATA[Новая кроў на рынгу.]]></entry>
+    <entry id="str_vo_pit_first_match_queue_02_0" arena_priority="1"><![CDATA[Вы пацешылі натоўп - а цяпер нешта больш жорсткае!]]></entry>
+    <entry id="str_vo_pit_first_match_queue_03_0" arena_priority="1"><![CDATA[Новыя спаборніцтвы патрабуюць сілы і хітрасці ў аднолькавай ступені.]]></entry>
+    <entry id="str_vo_pit_first_match_queue_04_0" arena_priority="1"><![CDATA[Сцеражыцеся свайго росту прэстыжу...гэта гук сірэны для тых, хто стане вашай гібеллю.]]></entry>
+    <entry id="str_vo_pit_first_match_queue_05_0" arena_priority="1"><![CDATA[Толькі самыя жорсткія праціўнікі вартыя галоўнай гульні вечара!]]></entry>
+    <entry id="str_vo_pit_results_defeat_0" arena_priority="1"><![CDATA[Вытры кроў і збяры зубы. Ці набярэшся ты смеласці вярнуцца?]]></entry>
+    <entry id="str_vo_pit_results_league_0" arena_priority="1"><![CDATA[Новая Ліга, новы ўраджай труслівых праціўнікаў.]]></entry>
+    <entry id="str_vo_pit_results_prestige_01_0" arena_priority="1"><![CDATA[Гаспадар арэны задаволены!]]></entry>
+    <entry id="str_vo_pit_results_prestige_02_0" arena_priority="1"><![CDATA[Упрыгажэнні і трафеі чакаюць вас.]]></entry>
+    <entry id="str_vo_pit_results_prestige_max_0" arena_priority="1"><![CDATA[Усе пачуюць аб вашых перамогах... на некаторы час. Усяму свой час.]]></entry>
+    <entry id="str_vo_pit_results_tier_0" arena_priority="1"><![CDATA[Вашы трафеі множацца і слова аб іх вандруе. Хай гэта не папярэднічае краху.]]></entry>
+    <entry id="str_vo_pit_results_victory_0" arena_priority="1"><![CDATA[Какафонія крыважэрнай асалоды. Хвала заслужаная!]]></entry>
+    <entry id="str_vo_pit_first_banner_0" arena_priority="1"><![CDATA[Гвалт і марнасць, прыніжаныя палюбоўнікі, замкнёныя ў вечных абдымках.]]></entry>
+    <entry id="str_vo_pit_arrive_first_0" arena_priority="1"><![CDATA[Вандроўная вакханалія, распуснае спаборніцтва на выжыванне - Цырк Мясніка - гэта ўсё гэта і многае іншае.]]></entry>
+    <entry id="str_vo_pit_first_direct_0" arena_priority="1"><![CDATA[Шукайце сваіх супернікаў і сустракайце іх - жалезнай пальчаткай!]]></entry>
+    <entry id="str_vo_pit_first_party_0" arena_priority="1"><![CDATA[Не спяшайцеся з выбар сваіх байцоў - перамога і параза могуць вырашацца тут.]]></entry>
+    <entry id="str_vo_pit_first_prize_0" arena_priority="1"><![CDATA[Патрабуйце сваю здабычу - яна цяжка заробленая, і папярэдні ўладальнік не будзе шукаць яе.]]></entry>
+    <entry id="str_vo_pit_first_match_ranked_0" arena_priority="1"><![CDATA[У гэтым спісе кроў і мужнасць - адзіныя сродкі да ўзыходжання.]]></entry>
+    <entry id="str_waiting_for_player" arena_priority="1"><![CDATA[Ваш супернік чакае вас!]]></entry>
+    <entry id="str_waiting_for_other_player" arena_priority="1"><![CDATA[Чакаем суперніка...]]></entry>
+    <entry id="str_waiting_for_playfab" arena_priority="1"><![CDATA[Немагчыма падключыцца да сервера.]]></entry>
+    <entry id="str_waiting_for_steam" arena_priority="1"><![CDATA[Steam недаступны!]]></entry>
+    <entry id="town_name_banner_customization" arena_priority="1"><![CDATA[Канструктар штандараў]]></entry>
+    <entry id="town_name_dueling_grounds" arena_priority="1"><![CDATA[Пляцоўка для дуэлі]]></entry>
+    <entry id="town_name_fight" arena_priority="1"><![CDATA[Арэна]]></entry>
+    <entry id="town_name_hamlet" arena_priority="1"><![CDATA[Паселішча]]></entry>
+    <entry id="town_name_prize_booth" arena_priority="1"><![CDATA[Прызавая скрынка]]></entry>
+    <entry id="town_name_rankings" arena_priority="1"><![CDATA[Рэйтынгавая дошка]]></entry>
+    <entry id="town_progression_forward_cancel_challenge" arena_priority="1"><![CDATA[Адхіліць]]></entry>
+    <entry id="town_progression_forward_cancel_matchmaking" arena_priority="1"><![CDATA[Выйсці з чаргі]]></entry>
+    <entry id="town_progression_forward_challenge" arena_priority="1"><![CDATA[Выклік]]></entry>
+    <entry id="town_progression_forward_enter_the_ring" arena_priority="1"><![CDATA[Увайсці на арэну]]></entry>
+    <entry id="town_progression_forward_fight" arena_priority="1"><![CDATA[Бойка]]></entry>
+    <entry id="town_quest_name_activate+1+arena" arena_priority="1"><![CDATA[Матч у Цырку]]></entry>
+    <entry id="tray_icon_tooltip_daze_format" arena_priority="1"><![CDATA[Ашаломленасць (%d р.)]]></entry>
+    <entry id="tray_icon_tooltip_daze" arena_priority="1"><![CDATA[Не можа дзейнічаць перад саюзнікамі, якія не ашаломлены.]]></entry>
+    <entry id="tray_icon_tooltip_health_damage_blocks_duration_format" arena_priority="1"><![CDATA[%d блокі (%d р.)]]></entry>
+    <entry id="trinket_rarity_arena" arena_priority="1"><![CDATA[Гаспадар арэны]]></entry>
+    <entry id="trinket_attack_skill_additional_effects_hit_miss" arena_priority="1"><![CDATA[Пры атацы:]]></entry>
+    <entry id="trinket_attack_skill_additional_effects_hit" arena_priority="1"><![CDATA[Пры паспяховай атацы:]]></entry>
+    <entry id="trinket_attack_skill_additional_effects_miss" arena_priority="1"><![CDATA[Пры промаху пры атацы:]]></entry>
+    <entry id="trinket_friendly_skill_additional_effects" arena_priority="1"><![CDATA[Пры лячэнні:]]></entry>
+    <entry id="trinket_was_hit_additional_effects" arena_priority="1"><![CDATA[Пры пападанні:]]></entry>
+    <entry id="tutorial_popup_banner_description" arena_priority="1"><![CDATA[Тут вы можаце распрацаваць свой {colour_start|notable}штандар{colour_end}, выкарыстоўваючы элементы, якія вы здабылі. Вы можаце праглядаць катэгорыі {colour_start|notable}Элементаў штандараў{colour_end}, выкарыстоўваючы ўкладкі {colour_start|notable} у правай частцы экрана{colour_end}. Элементы штандараў можна здабыць у многіх месцах, у тым ліку, выконваючы мэты і дасягненні Гаспадара арэны ў адзіночнай кампаніі. Вы можаце {colour_start|notable}[Навесці курсор мышы]{colour_end} на заблакіраваны штандар, каб убачыць, як яго атрымаць, або {colour_start|notable}[НАЦІСНІЦЕ], каб прагледзець яго{colour_end}. Змены ў вашым штандары часовыя, пакуль вы не {colour_start|notable}[НАЦІСНІЦЕ]{colour_end} "Ужыць усё".]]></entry>
+    <entry id="tutorial_popup_banner_title" arena_priority="1"><![CDATA[Падыміце свае колеры]]></entry>
+    <entry id="tutorial_popup_combat_activating_heroes_description" arena_priority="1"><![CDATA[У адрозненне ад адзіночнай кампаніі, {colour_start|notable}вы выбіраеце парадак{colour_end}, у якім вашы героі дзейнічаюць кожны раунд. У свой ход {colour_start|notable} [НАЦІСНІЦЕ І УТРЫМЛІВАЙЦЕ] на героя, каб актываваць яго {colour_end}. Пасля актывацыі героя вы не зможаце змяніць свой выбар, таму выбірайце з розумам! Вы можаце {colour_start|notable}[НАЦІСНУЦЬ]{colour_end} на героя, каб агледзець іх, перш чым вырашыць, якога героя актываваць. Герояў можна правяраць нават падчас ходу суперніка, таму выкарыстоўвайце гэта, каб планаваць ход загадзя!]]></entry>
+    <entry id="tutorial_popup_combat_activating_heroes_title" arena_priority="1"><![CDATA[Актывацыя герояў]]></entry>
+    <entry id="tutorial_popup_combat_burndown_timer_description" arena_priority="1"><![CDATA[На рынгу ў вас ёсць {colour_start|notable}абмежаваны час для дзеянняў{colour_end}. Гэта адлюстроўваецца факелам у верхняй частцы экрана. Калі вы будзеце занадта доўга дзейнічаць, факел пачне хутка гарэць. Калі ён згарыць, вы {colour_start|notable}прапусціце сваю чаргу{colour_end} і страціце дзеянне! Гэта адбудзецца ў рэальным матчы, але ў гэтым уроку таймер прыпынены.]]></entry>
+    <entry id="tutorial_popup_combat_burndown_timer_title" arena_priority="1"><![CDATA[Жар бітвы]]></entry>
+    <entry id="tutorial_popup_combat_taking_turns_description" arena_priority="1"><![CDATA[Вы і ваш праціўнік будзеце {colour_start|notable}па чарзе{colour_end} актываваць герояў. Кожны герой можа дзейнічаць толькі {colour_start|notable}адзін раз за раунд{colour_end}. Знак справа ад панэлі здароўя героя паказвае, што герой {colour_start|notable}яшчэ не дзейнічаў{colour_end} у гэтым раўндзе. Новы раўнд пачынаецца, калі {colour_start|notable}усе героі змарнуюць свае дзеянні{colour_end}.]]></entry>
+    <entry id="tutorial_popup_combat_taking_turns_title" arena_priority="1"><![CDATA[Хады]]></entry>
+    <entry id="tutorial_popup_circus_description" arena_priority="1"><![CDATA[Вы можаце пайсці ў Цырк, каб змагацца ў {colour_start|notable}шматкарыстальніцкіх бітвах{colour_end}. Ён цалкам незалежны ад маёнтка. Вашы героі і ўпрыгажэнні ў Цырку асобныя і не паўплываюць на ваш прагрэс у адзіночнай гульне. Прагрэс, якога вы дасягнулі ў Цырку, у тым ліку ваш ранг, дызайн штандара і любыя ўзнагароды, якія вы разблакуеце, {colour_start|notable}будзуць перанесены ў іншыя кампаніі{colour_end}, пакуль вы ўвайшлі ў той жа ўліковы запіс Steam.]]></entry>
+    <entry id="tutorial_popup_circus_title" arena_priority="1"><![CDATA[Цырк]]></entry>
+    <entry id="tutorial_popup_dueling_grounds_description" arena_priority="1"><![CDATA[На дуэльнай пляцоўцы вы можаце кінуць выклік іншым гульцам непасрэдна. {colour_start|notable}[НАЦІСНІЦЕ] на канверт{colour_end}, каб адправіць запрашэнне сябру праз Steam. Калі сябар прыме запрашэнне, вы будзеце падлучаны без доступу да выбару герояў і ўпрыгажэнняў]]></entry>
+    <entry id="tutorial_popup_dueling_grounds_title" arena_priority="1"><![CDATA[Кіньце выклік сваім сябрам]]></entry>
+    <entry id="tutorial_popup_party_setup_description" arena_priority="1"><![CDATA[Героі ў Цырку адрозніваюцца ад герояў у адзіночнай кампаніі. У іх ёсць {colour_start|notable}розныя навыкі і эфекты{colour_end}, прыдатныя для ўнікальных правілаў Арэны, і яны не знікнуць з вашага спісу, калі іх забіць. {colour_start|notable}[ЛКМ]{colour_end} на героя для хуткага доступу да яго статыстыкі, навыкаў і ўпрыгажэнняў. {colour_start|notable}[ПКМ]{colour_end} на героя, каб убачыць больш падрабязную статыстыку і паглядзець або змяніць іх знешні выгляд. {colour_start|notable}[ПЕРАЦЯГНІЦЕ] {colour_end} герояў у слоты ў ніжняй частцы экрана, каб сфармаваць сваю каманду і іх прадвызначаны парадак.]]></entry>
+    <entry id="tutorial_popup_party_setup_title" arena_priority="1"><![CDATA[Выбар удзельнікаў]]></entry>
+    <entry id="tutorial_popup_prize_box_description" arena_priority="1"><![CDATA[Змагаючыся ў Цырку, вы атрымліваеце {colour_start|notable}Прэстыж{colour_end}. Калі ваш прэстыж будзе расці, Гаспадар арэны дасць вам выкарыстоўваць {colour_start|notable}дадатковыя ўпрыгажэнні{colour_end} і новыя {colour_start|notable}дэталі для вашага штандара{colour_end}. Прэстыж зарабляецца, калі вы заканчваеце матчы, забіваеце герояў суперніка і пакідаеце ў жывых больш герояў, калі вы выйграеце матч. Перамога ў матчы прыносіць большы прэстыж, чым параза.]]></entry>
+    <entry id="tutorial_popup_prize_box_title" arena_priority="1"><![CDATA[Слава і ўдача]]></entry>
+    <entry id="tutorial_popup_rankings_description" arena_priority="1"><![CDATA[Перамогі на Арэне павысяць ваш {colour_start|notable}Ранг{colour_end}, які выкарыстоўваецца, каб параўнаць вас з такімі ж кваліфікаванымі супернікамі. Кожная рэйтынгавая {colour_start|notable}ліга{colour_end} падзелена на {colour_start|notable}тры ярусы{colour_end}. Чарапы вакол сімвала лігі ўяўляюць колькасць {colour_start|notable}крокаў, неабходных для дасягнення наступнага ўзроўню{colour_end}. Вы будзеце {colour_start|notable}набіраць крокі з кожнай перамогай{colour_end} і губляць іх з кожнай паразай.]]></entry>
+    <entry id="tutorial_popup_rankings_title" arena_priority="1"><![CDATA[Павышэнне ранга]]></entry>
+    <entry id="menu_controls_category_0" arena_priority="1"><![CDATA[АГУЛЬНЫЯ]]></entry>
+    <entry id="menu_controls_category_1" arena_priority="1"><![CDATA[ГАРЯЧЫЯ КЛАВІШЫ ЦЫРКА]]></entry>
+    <entry id="menu_controls_category_2" arena_priority="1"><![CDATA[ГАРЯЧЫЯ КЛАВІШЫ БОЙКІ]]></entry>
+    <entry id="[pc]menu_controls_element_0_0" arena_priority="1"><![CDATA[ESC - выхад у меню]]></entry>
+    <entry id="[pc]menu_controls_element_1_0" arena_priority="1"><![CDATA[[ПКМ]/[ЛКМ] - праглядзець табліцу персанажаў героя]]></entry>
+    <entry id="[pc]menu_controls_element_1_1" arena_priority="1"><![CDATA[Q / E - пераход да наступнага героя падчас прагляду табліцы персанажаў]]></entry>
+    <entry id="[pc]menu_controls_element_2_0" arena_priority="1"><![CDATA[[ПКМ], каб праглядзець табліцу герояў]]></entry>
+    <entry id="[pc]menu_controls_element_2_1" arena_priority="1"><![CDATA[Q / E - пераход да наступнага героя]]></entry>
+    <entry id="[pc]menu_controls_element_2_2" arena_priority="1"><![CDATA[1/2/3/4/5 - Хуткі выбар навыку для бягучага героя]]></entry>
+    <entry id="[pc]menu_controls_element_2_3" arena_priority="1"><![CDATA[[УТРЫМАННЕ] 1/2/3/4/5 - Актывацыя героя з абраным навыкам]]></entry>
+    <entry id="[pc]menu_controls_element_2_4" arena_priority="1"><![CDATA[[УТРЫМАЦЬ] ПРАБЕЛ - Актываваць героя]]></entry>
+    <entry id="[pc]menu_controls_element_2_5" arena_priority="1"><![CDATA[THIS_IS_EMPTY_FIELD]]></entry>
+    <entry id="[pc]menu_controls_element_2_6" arena_priority="1"/>
+    <entry id="[pc]menu_controls_element_2_7" arena_priority="1"><![CDATA[THIS_IS_EMPTY_FIELD]]></entry>
+    <entry id="[pc]menu_controls_element_2_8" arena_priority="1"/>
+    <entry id="failed_to_exchange_data_with_remote_player" arena_priority="1"><![CDATA[Не атрымалася звязацца з іншым гульцом.]]></entry>
+    <entry id="str_circus_title" arena_priority="1"><![CDATA[The Butcher's Circus]]></entry>
+    <entry id="str_banned" arena_priority="1"><![CDATA[Бан...]]></entry>
+    <entry id="str_ban_effects_and_time" arena_priority="1"><![CDATA[Забаронены пошук матчаў: %s. Жадаеце згуляць супраць ботаў?]]></entry>
+    <entry id="str_requesting_ban_expiration" arena_priority="1"><![CDATA[Правяраецца тэрмін дзеяння...]]></entry>
+    <entry id="str_backend_maintenance" arena_priority="1"><![CDATA[Цырк на рамонце!]]></entry>
+    <entry id="str_rankings_time_s_format" arena_priority="1"><![CDATA[%dсек]]></entry>
+    <entry id="str_rankings_time_infinite_format" arena_priority="1"><![CDATA[Назаўжды]]></entry>
+    <entry id="str_vo_pit_banner_save_0" arena_priority="1"><![CDATA[Новы герб для самага вартага з чэмпіёнаў.]]></entry>
+    <entry id="str_vo_pit_timer_expired_player_02_0" arena_priority="1"><![CDATA[Вэрхал пануе паўсюдна!]]></entry>
+    <entry id="str_party_setup_connection_lost" arena_priority="1"><![CDATA[Ваш апанент адключыўся.]]></entry>
+    <entry id="str_friend_list_state_offline" arena_priority="1"><![CDATA[Ваш спіс сяброў Steam адключаны. Вы павінны ўвайсці ў акаўнт Steam і паразмаўляць.]]></entry>
+    <entry id="achievement_has_dlc_735730_completed" arena_priority="1"><![CDATA[Набыць дапаўненне The Color of Madness]]></entry>
+    <entry id="achievement_has_dlc_580100_completed" arena_priority="1"><![CDATA[Набыць дапаўненне The Crimson Court]]></entry>
+    <entry id="achievement_arena_first_arena_played" arena_priority="1"><![CDATA[Першы матч на арэне]]></entry>
+    <entry id="achievement_arena_first_arena_played_completed" arena_priority="1"><![CDATA[Першы матч на арэне]]></entry>
+    <entry id="achievement_arena_first_heartattack" arena_priority="1"><![CDATA[Выклікаць у праціўніка сардэчны прыступ.]]></entry>
+    <entry id="achievement_arena_first_heartattack_completed" arena_priority="1"><![CDATA[Выклікаць у праціўніка сардэчны прыступ.]]></entry>
+    <entry id="achievement_arena_kill_all_heroes" arena_priority="1"><![CDATA[Забіце кожны клас герояў]]></entry>
+    <entry id="achievement_arena_kill_all_heroes_completed" arena_priority="1"><![CDATA[Забіце кожны клас герояў]]></entry>
+    <entry id="achievement_arena_direct_challenge" arena_priority="1"><![CDATA[Выйграйце матч на пляцоўцы для дуэлі]]></entry>
+    <entry id="achievement_arena_direct_challenge_completed" arena_priority="1"><![CDATA[Выйграйце матч на пляцоўцы для дуэлі]]></entry>
+    <entry id="achievement_arena_daze_ten_enemies" arena_priority="1"><![CDATA[Ашаломце 10 ворагаў у Цырку Мясніка]]></entry>
+    <entry id="achievement_arena_daze_ten_enemies_completed" arena_priority="1"><![CDATA[Ашаломце 10 ворагаў у Цырку Мясніка]]></entry>
+    <entry id="achievement_arena_no_damage_win" arena_priority="1"><![CDATA[Выйграйце матч, выкарыстоўваючы ТОЛЬКІ стрэс]]></entry>
+    <entry id="achievement_arena_no_damage_win_completed" arena_priority="1"><![CDATA[Выйграйце матч, выкарыстоўваючы ТОЛЬКІ стрэс]]></entry>
+    <entry id="achievement_arena_survive_multiple_dd_checks" arena_priority="1"><![CDATA[Герой мусіць выжыць пасля 5 праверак смерці]]></entry>
+    <entry id="achievement_arena_survive_multiple_dd_checks_completed" arena_priority="1"><![CDATA[Герой мусіць выжыць пасля 5 праверак смерці]]></entry>
+    <entry id="achievement_arena_single_hero_kills_all" arena_priority="1"><![CDATA[Адзін герой забівае 4 ворагаў у матчы]]></entry>
+    <entry id="achievement_arena_single_hero_kills_all_completed" arena_priority="1"><![CDATA[Адзін герой забівае 4 ворагаў у матчы]]></entry>
+    <entry id="achievement_arena_round_one_kill" arena_priority="1"><![CDATA[Забіце ворага ў першым раўндзе матчу]]></entry>
+    <entry id="achievement_arena_round_one_kill_completed" arena_priority="1"><![CDATA[Забіце ворага ў першым раўндзе матчу]]></entry>
+    <entry id="achievement_arena_survive_multiple_heartattack" arena_priority="1"><![CDATA[Адзін герой перажывае 4 сардэчныя прыступы за матч]]></entry>
+    <entry id="achievement_arena_survive_multiple_heartattack_completed" arena_priority="1"><![CDATA[Адзін герой перажывае 4 сардэчныя прыступы за матч]]></entry>
+    <entry id="achievement_arena_no_trinket_win" arena_priority="1"><![CDATA[Выйграйце матч без упрыгажэнняў]]></entry>
+    <entry id="achievement_arena_no_trinket_win_completed" arena_priority="1"><![CDATA[Выйграйце матч без упрыгажэнняў]]></entry>
+    <entry id="achievement_arena_win_100" arena_priority="1"><![CDATA[Выйграйце 100 матчаў]]></entry>
+    <entry id="achievement_arena_win_100_completed" arena_priority="1"><![CDATA[Выйграйце 100 матчаў]]></entry>
+    <entry id="achievement_arena_heartattack_150" arena_priority="1"><![CDATA[Выклікаць 150 сардэчных прыступаў]]></entry>
+    <entry id="achievement_arena_heartattack_150_completed" arena_priority="1"><![CDATA[Выклікаць 150 сардэчных прыступаў]]></entry>
+    <entry id="achievement_arena_kill_600" arena_priority="1"><![CDATA[Забіце 600 ворагаў у Цырку Мясніка]]></entry>
+    <entry id="achievement_arena_kill_600_completed" arena_priority="1"><![CDATA[Забіце 600 ворагаў у Цырку Мясніка]]></entry>
+    <entry id="achievement_arena_reach_max_prestige" arena_priority="1"><![CDATA[Дасягніце максімальнага ўзроўню прэстыжу]]></entry>
+    <entry id="achievement_arena_reach_max_prestige_completed" arena_priority="1"><![CDATA[Дасягніце максімальнага ўзроўню прэстыжу]]></entry>
+    <entry id="achievement_arena_ten_perfect_victories" arena_priority="1"><![CDATA[Выйграйце любыя 10 матчаў без смерцяў]]></entry>
+    <entry id="achievement_arena_ten_perfect_victories_completed" arena_priority="1"><![CDATA[Выйграйце любыя 10 матчаў без смерцяў]]></entry>
+    <entry id="str_new_party" arena_priority="1"><![CDATA[Новы атрад...]]></entry>
+    <entry id="str_party_builder_expand_title" arena_priority="1"><![CDATA[Канструктар атраду]]></entry>
+    <entry id="str_party_builder_expand_desc" arena_priority="1"><![CDATA[Захаваць або загрузіць атрад]]></entry>
+    <entry id="str_party_builder_save" arena_priority="1"><![CDATA[Захаваць канфігурацыю атраду]]></entry>
+    <entry id="str_party_builder_load" arena_priority="1"><![CDATA[Загрузіць канфігурацыю атраду]]></entry>
+    <entry id="str_party_builder_save_question" arena_priority="1"><![CDATA[УВАГА: калі вы захаваеце бягучую канфігурацыю атраду, яна перазапіша іншую, захаваную ў гэтым слоце. Вы ўпэўнены?]]></entry>
+    <entry id="str_party_builder_save_question_ans_yes" arena_priority="1"><![CDATA[Захаваць]]></entry>
+    <entry id="str_party_builder_save_question_ans_no" arena_priority="1"><![CDATA[Адхіліць]]></entry>
+    <entry id="str_party_builder_load_question" arena_priority="1"><![CDATA[УВАГА: калі вы загрузіце канфігурацыю атраду, гэта зменіць навыкі і ўпрыгажэнні вашых герояў. Вы ўпэўнены?]]></entry>
+    <entry id="str_party_builder_load_question_ans_yes" arena_priority="1"><![CDATA[Загрузіце]]></entry>
+    <entry id="str_party_builder_load_question_ans_no" arena_priority="1"><![CDATA[Адхіліць]]></entry>
+    <entry id="str_party_builder_delete_question" arena_priority="1"><![CDATA[УВАГА: калі вы выдаліце гэтую канфігурацыю атраду, вы не зможаце яе аднавіць. Вы ўпэўнены?]]></entry>
+    <entry id="str_party_builder_delete_question_ans_yes" arena_priority="1"><![CDATA[Выдаліць]]></entry>
+    <entry id="str_party_builder_delete_question_ans_no" arena_priority="1"><![CDATA[Адхіліць]]></entry>
+    <entry id="input_command_prize_booth_inspect_rewards" arena_priority="1"><![CDATA[«Выбраць» вылучаны ўзровень узнагароды]]></entry>
+    <entry id="arenacombat_start1" arena_priority="1"><![CDATA[Меню]]></entry>
+    <entry id="arenacombat_dpad_u" arena_priority="1"/>
+    <entry id="arenacombat_dpad_l" arena_priority="1"/>
+    <entry id="arenacombat_dpad_d" arena_priority="1"/>
+    <entry id="arenacombat_dpad_r" arena_priority="1"/>
+    <entry id="arenacombat_secondary2" arena_priority="1"/>
+    <entry id="arenacombat_primary2" arena_priority="1"><![CDATA[Адхіліць/Закрыць]]></entry>
+    <entry id="arenacombat_primary1" arena_priority="1"><![CDATA[Выбраць/(УТРЫМАННЕ) Актываваць героя]]></entry>
+    <entry id="arenacombat_secondary1" arena_priority="1"><![CDATA[Дэталі героя]]></entry>
+    <entry id="arenacombat_analog_stick_l" arena_priority="1"><![CDATA[Выбар навыку/мэты]]></entry>
+    <entry id="arenacombat_analog_stick_r" arena_priority="1"/>
+    <entry id="arenacombat_shoulder_l" arena_priority="1"><![CDATA[(L1) Выбраць папярэдняга героя]]></entry>
+    <entry id="arenacombat_shoulder_r" arena_priority="1"><![CDATA[(R1) Выбраць наступнага героя]]></entry>
+    <entry id="arenacombat_trigger_l" arena_priority="1"><![CDATA[(УТРЫМАННЕ L2) Інфармацыя аб стане]]></entry>
+    <entry id="arenacombat_trigger_r" arena_priority="1"><![CDATA[(УТРЫМАННЕ R2) Агледзець супернікаў]]></entry>
+    <entry id="arenacombat_stick_l" arena_priority="1"/>
+    <entry id="arenacombat_stick_r" arena_priority="1"/>
+    <entry id="arenacombat_tpad_l" arena_priority="1"><![CDATA[Даведка]]></entry>
+    <entry id="arenacombat_tpad_r" arena_priority="1"><![CDATA[Здацца]]></entry>
+    <entry id="circus_start1" arena_priority="1"><![CDATA[Меню]]></entry>
+    <entry id="circus_dpad_u" arena_priority="1"/>
+    <entry id="circus_dpad_l" arena_priority="1"/>
+    <entry id="circus_dpad_d" arena_priority="1"/>
+    <entry id="circus_dpad_r" arena_priority="1"/>
+    <entry id="circus_secondary2" arena_priority="1"><![CDATA[Інвентар упрыгажэнняў]]></entry>
+    <entry id="circus_primary2" arena_priority="1"><![CDATA[Адхіліць/Назад]]></entry>
+    <entry id="circus_primary1" arena_priority="1"><![CDATA[Увайсці ў будынак]]></entry>
+    <entry id="circus_secondary1" arena_priority="1"/>
+    <entry id="circus_analog_stick_l" arena_priority="1"><![CDATA[Навігацыя паміж будынкаў]]></entry>
+    <entry id="circus_analog_stick_r" arena_priority="1"/>
+    <entry id="circus_shoulder_l" arena_priority="1"><![CDATA[(L1) Навіны]]></entry>
+    <entry id="circus_shoulder_r" arena_priority="1"><![CDATA[(R1) Лігі]]></entry>
+    <entry id="circus_trigger_l" arena_priority="1"/>
+    <entry id="circus_trigger_r" arena_priority="1"/>
+    <entry id="circus_stick_l" arena_priority="1"/>
+    <entry id="circus_stick_r" arena_priority="1"/>
+    <entry id="circus_tpad_l" arena_priority="1"><![CDATA[Даведка]]></entry>
+    <entry id="circus_tpad_r" arena_priority="1"><![CDATA[Увайсці на Арэну]]></entry>
+    <entry id="banner_customization_start1" arena_priority="1"><![CDATA[Меню]]></entry>
+    <entry id="banner_customization_dpad_u" arena_priority="1"/>
+    <entry id="banner_customization_dpad_l" arena_priority="1"/>
+    <entry id="banner_customization_dpad_d" arena_priority="1"/>
+    <entry id="banner_customization_dpad_r" arena_priority="1"/>
+    <entry id="banner_customization_secondary2" arena_priority="1"/>
+    <entry id="banner_customization_primary2" arena_priority="1"><![CDATA[Адхіліць/Назад]]></entry>
+    <entry id="banner_customization_primary1" arena_priority="1"><![CDATA[Ужыць змены]]></entry>
+    <entry id="banner_customization_secondary1" arena_priority="1"/>
+    <entry id="banner_customization_analog_stick_l" arena_priority="1"><![CDATA[Прагляд штандараў]]></entry>
+    <entry id="banner_customization_analog_stick_r" arena_priority="1"/>
+    <entry id="banner_customization_shoulder_l" arena_priority="1"/>
+    <entry id="banner_customization_shoulder_r" arena_priority="1"><![CDATA[(R1) Выпадковы штандар]]></entry>
+    <entry id="banner_customization_trigger_l" arena_priority="1"><![CDATA[(УТРЫМАННЕ L2) Інфармацыя пра штандар]]></entry>
+    <entry id="banner_customization_trigger_r" arena_priority="1"><![CDATA[(УТРЫМАННЕ R2) Фокус на ўкладцы]]></entry>
+    <entry id="banner_customization_stick_l" arena_priority="1"/>
+    <entry id="banner_customization_stick_r" arena_priority="1"/>
+    <entry id="banner_customization_tpad_l" arena_priority="1"/>
+    <entry id="banner_customization_tpad_r" arena_priority="1"/>
+    <entry id="prize_box_start1" arena_priority="1"><![CDATA[Меню]]></entry>
+    <entry id="prize_box_dpad_u" arena_priority="1"/>
+    <entry id="prize_box_dpad_l" arena_priority="1"/>
+    <entry id="prize_box_dpad_d" arena_priority="1"/>
+    <entry id="prize_box_dpad_r" arena_priority="1"/>
+    <entry id="prize_box_secondary2" arena_priority="1"/>
+    <entry id="prize_box_primary2" arena_priority="1"><![CDATA[Адхіліць/Назад]]></entry>
+    <entry id="prize_box_primary1" arena_priority="1"><![CDATA[Выберыце ўзнагароду/папярэдні прагляд]]></entry>
+    <entry id="prize_box_secondary1" arena_priority="1"/>
+    <entry id="prize_box_analog_stick_l" arena_priority="1"><![CDATA[Навігацыя па ўзнагародах]]></entry>
+    <entry id="prize_box_analog_stick_r" arena_priority="1"/>
+    <entry id="prize_box_shoulder_l" arena_priority="1"/>
+    <entry id="prize_box_shoulder_r" arena_priority="1"/>
+    <entry id="prize_box_trigger_l" arena_priority="1"><![CDATA[(УТРЫМАННЕ L2) Інфармацыя аб узнагародзе]]></entry>
+    <entry id="prize_box_trigger_r" arena_priority="1"/>
+    <entry id="prize_box_stick_l" arena_priority="1"/>
+    <entry id="prize_box_stick_r" arena_priority="1"/>
+    <entry id="prize_box_tpad_l" arena_priority="1"/>
+    <entry id="prize_box_tpad_r" arena_priority="1"/>
+    <entry id="dueling_grounds_start1" arena_priority="1"><![CDATA[Меню]]></entry>
+    <entry id="dueling_grounds_dpad_u" arena_priority="1"/>
+    <entry id="dueling_grounds_dpad_l" arena_priority="1"/>
+    <entry id="dueling_grounds_dpad_d" arena_priority="1"/>
+    <entry id="dueling_grounds_dpad_r" arena_priority="1"/>
+    <entry id="dueling_grounds_secondary2" arena_priority="1"/>
+    <entry id="dueling_grounds_primary2" arena_priority="1"><![CDATA[Адхіліць/Назад]]></entry>
+    <entry id="dueling_grounds_primary1" arena_priority="1"><![CDATA[Адправіць запрашэнне]]></entry>
+    <entry id="dueling_grounds_secondary1" arena_priority="1"><![CDATA[Адхіліць запрашэнне]]></entry>
+    <entry id="dueling_grounds_analog_stick_l" arena_priority="1"><![CDATA[Навігацыя па Сябрах]]></entry>
+    <entry id="dueling_grounds_analog_stick_r" arena_priority="1"/>
+    <entry id="dueling_grounds_shoulder_l" arena_priority="1"/>
+    <entry id="dueling_grounds_shoulder_r" arena_priority="1"/>
+    <entry id="dueling_grounds_trigger_l" arena_priority="1"/>
+    <entry id="dueling_grounds_trigger_r" arena_priority="1"/>
+    <entry id="dueling_grounds_stick_l" arena_priority="1"/>
+    <entry id="dueling_grounds_stick_r" arena_priority="1"/>
+    <entry id="dueling_grounds_tpad_l" arena_priority="1"/>
+    <entry id="dueling_grounds_tpad_r" arena_priority="1"/>
+    <entry id="ranking_board_start1" arena_priority="1"><![CDATA[Меню]]></entry>
+    <entry id="ranking_board_dpad_u" arena_priority="1"/>
+    <entry id="ranking_board_dpad_l" arena_priority="1"/>
+    <entry id="ranking_board_dpad_d" arena_priority="1"/>
+    <entry id="ranking_board_dpad_r" arena_priority="1"/>
+    <entry id="ranking_board_secondary2" arena_priority="1"/>
+    <entry id="ranking_board_primary2" arena_priority="1"><![CDATA[Адхіліць/Назад]]></entry>
+    <entry id="ranking_board_primary1" arena_priority="1"/>
+    <entry id="ranking_board_secondary1" arena_priority="1"/>
+    <entry id="ranking_board_analog_stick_l" arena_priority="1"><![CDATA[Навігацыя па матчам]]></entry>
+    <entry id="ranking_board_analog_stick_r" arena_priority="1"/>
+    <entry id="ranking_board_shoulder_l" arena_priority="1"/>
+    <entry id="ranking_board_shoulder_r" arena_priority="1"/>
+    <entry id="ranking_board_trigger_l" arena_priority="1"/>
+    <entry id="ranking_board_trigger_r" arena_priority="1"><![CDATA[(УТРЫМАННЕ R2) Фокус на ўкладцы]]></entry>
+    <entry id="ranking_board_stick_l" arena_priority="1"/>
+    <entry id="ranking_board_stick_r" arena_priority="1"/>
+    <entry id="ranking_board_tpad_l" arena_priority="1"/>
+    <entry id="ranking_board_tpad_r" arena_priority="1"/>
+    <entry id="party_setup_start1" arena_priority="1"><![CDATA[Меню]]></entry>
+    <entry id="party_setup_dpad_u" arena_priority="1"/>
+    <entry id="party_setup_dpad_l" arena_priority="1"/>
+    <entry id="party_setup_dpad_d" arena_priority="1"/>
+    <entry id="party_setup_dpad_r" arena_priority="1"/>
+    <entry id="party_setup_secondary2" arena_priority="1"><![CDATA[Інвентар упрыгажэнняў]]></entry>
+    <entry id="party_setup_primary2" arena_priority="1"><![CDATA[Адхіліць/Назад]]></entry>
+    <entry id="party_setup_primary1" arena_priority="1"><![CDATA[Выбраць героя/экіпіраваць упрыгажэнне]]></entry>
+    <entry id="party_setup_secondary1" arena_priority="1"><![CDATA[Дэталі героя]]></entry>
+    <entry id="party_setup_analog_stick_l" arena_priority="1"><![CDATA[Навігацыя па героях/упрыгажэннях]]></entry>
+    <entry id="party_setup_analog_stick_r" arena_priority="1"/>
+    <entry id="party_setup_shoulder_l" arena_priority="1"><![CDATA[(L1) Трэніровачны бой]]></entry>
+    <entry id="party_setup_shoulder_r" arena_priority="1"><![CDATA[(R1) Лігі]]></entry>
+    <entry id="party_setup_trigger_l" arena_priority="1"><![CDATA[(L2) Канструктар атраду/інфармацыя аб упрыгажэннях]]></entry>
+    <entry id="party_setup_trigger_r" arena_priority="1"><![CDATA[(R2) Адкрыць выпадны спіс герояў]]></entry>
+    <entry id="party_setup_stick_l" arena_priority="1"/>
+    <entry id="party_setup_stick_r" arena_priority="1"/>
+    <entry id="party_setup_tpad_l" arena_priority="1"/>
+    <entry id="party_setup_tpad_r" arena_priority="1"><![CDATA[Бой]]></entry>
+    <entry id="party_builder_start1" arena_priority="1"><![CDATA[Меню]]></entry>
+    <entry id="party_builder_dpad_u" arena_priority="1"/>
+    <entry id="party_builder_dpad_l" arena_priority="1"/>
+    <entry id="party_builder_dpad_d" arena_priority="1"/>
+    <entry id="party_builder_dpad_r" arena_priority="1"/>
+    <entry id="party_builder_secondary2" arena_priority="1"><![CDATA[Рэдагаваць назву атрада]]></entry>
+    <entry id="party_builder_primary2" arena_priority="1"><![CDATA[Выдаліць атрад]]></entry>
+    <entry id="party_builder_primary1" arena_priority="1"><![CDATA[Захаваць атрад]]></entry>
+    <entry id="party_builder_secondary1" arena_priority="1"><![CDATA[Загрузіць атрад]]></entry>
+    <entry id="party_builder_analog_stick_l" arena_priority="1"><![CDATA[Навігацыя па атрадах]]></entry>
+    <entry id="party_builder_analog_stick_r" arena_priority="1"/>
+    <entry id="party_builder_shoulder_l" arena_priority="1"/>
+    <entry id="party_builder_shoulder_r" arena_priority="1"/>
+    <entry id="party_builder_trigger_l" arena_priority="1"><![CDATA[(L2) Зачыніць канструктар атрада]]></entry>
+    <entry id="party_builder_trigger_r" arena_priority="1"/>
+    <entry id="party_builder_stick_l" arena_priority="1"/>
+    <entry id="party_builder_stick_r" arena_priority="1"/>
+    <entry id="party_builder_tpad_l" arena_priority="1"/>
+    <entry id="party_builder_tpad_r" arena_priority="1"/>
+    <entry id="str_controls_arenacombat_context" arena_priority="1"><![CDATA[Арэна]]></entry>
+    <entry id="str_controls_circus_context" arena_priority="1"><![CDATA[Цырк]]></entry>
+    <entry id="str_controls_banner_customization_context" arena_priority="1"><![CDATA[Канструктар штандараў]]></entry>
+    <entry id="str_controls_prize_box_context" arena_priority="1"><![CDATA[Прызавая скрынка]]></entry>
+    <entry id="str_controls_dueling_grounds_context" arena_priority="1"><![CDATA[Дуэльная пляцоўка]]></entry>
+    <entry id="str_controls_ranking_board_context" arena_priority="1"><![CDATA[Рэйтынгавая дошка]]></entry>
+    <entry id="str_controls_party_setup_context" arena_priority="1"><![CDATA[Выбар удзельнікаў]]></entry>
+    <entry id="str_controls_party_builder_context" arena_priority="1"><![CDATA[Канструктар атрада]]></entry>
+    <entry id="banner_piece_desync_aura" arena_priority="1"><![CDATA[Дэсінхранізаваная аўра]]></entry>
+    <entry id="banner_piece_desync_crest" arena_priority="1"><![CDATA[Дэсінхранізаваны герб]]></entry>
+    <entry id="banner_piece_desync_pole" arena_priority="1"><![CDATA[Дэсінхранізаваны калок]]></entry>
+    <entry id="banner_piece_desync_headpiece" arena_priority="1"><![CDATA[Дэсінхранізаваны галаўны ўбор]]></entry>
+    <entry id="banner_piece_desync_ornament" arena_priority="1"><![CDATA[Дэсінхранізаваная аздоба]]></entry>
+    <entry id="banner_piece_desync_trappings" arena_priority="1"><![CDATA[Дэсінхранізаваныя атрыбуты]]></entry>
+    <entry id="banner_piece_arena_bugsA_aura" arena_priority="1"><![CDATA[Аўра арахніда]]></entry>
+    <entry id="banner_piece_arena_bugsA_crest" arena_priority="1"><![CDATA[Герб арахніда]]></entry>
+    <entry id="banner_piece_arena_bugsA_pole" arena_priority="1"><![CDATA[Калок арахніда]]></entry>
+    <entry id="banner_piece_arena_bugsA_headpiece" arena_priority="1"><![CDATA[Галаўны ўбор арахніда]]></entry>
+    <entry id="banner_piece_arena_bugsA_ornament" arena_priority="1"><![CDATA[Аздоба арахніда]]></entry>
+    <entry id="banner_piece_arena_bugsA_trappings" arena_priority="1"><![CDATA[Атрыбуты арахніда]]></entry>
+    <entry id="banner_piece_arena_bugsB_aura" arena_priority="1"><![CDATA[Аўра мясной мухі]]></entry>
+    <entry id="banner_piece_arena_bugsB_crest" arena_priority="1"><![CDATA[Герб мясной мухі]]></entry>
+    <entry id="banner_piece_arena_bugsB_pole" arena_priority="1"><![CDATA[Калок мясной мухі]]></entry>
+    <entry id="banner_piece_arena_bugsB_headpiece" arena_priority="1"><![CDATA[Галаўны ўбор мясной мухі]]></entry>
+    <entry id="banner_piece_arena_bugsB_ornament" arena_priority="1"><![CDATA[Аздоба мясной мухі]]></entry>
+    <entry id="banner_piece_arena_bugsB_trappings" arena_priority="1"><![CDATA[Атрыбуты мясной мухі]]></entry>
+    <entry id="achievement_season_1_league_1" arena_priority="1"><![CDATA[Дасягнуць Лігі пачаткоўцаў у 1 сезоне]]></entry>
+    <entry id="achievement_season_1_league_1_completed" arena_priority="1"><![CDATA[Ліга пачаткоўцаў 1 сезон]]></entry>
+    <entry id="achievement_season_1_league_2" arena_priority="1"><![CDATA[Дасягнуць Лігі вучняў у 1 сезоне]]></entry>
+    <entry id="achievement_season_1_league_2_completed" arena_priority="1"><![CDATA[Ліга вучняў 1 сезон]]></entry>
+    <entry id="achievement_season_1_league_3" arena_priority="1"><![CDATA[Дасягнуць Лігі ветэранаў у 1 сезоне]]></entry>
+    <entry id="achievement_season_1_league_3_completed" arena_priority="1"><![CDATA[Ліга ветэранаў 1 сезон]]></entry>
+    <entry id="achievement_season_1_league_4" arena_priority="1"><![CDATA[Дасягнуць Лігі чэмпіёнаў у 1 сезоне]]></entry>
+    <entry id="achievement_season_1_league_4_completed" arena_priority="1"><![CDATA[Ліга чэмпіёнаў 1 сезон]]></entry>
+    <entry id="achievement_season_1_league_5" arena_priority="1"><![CDATA[Дасягнуць Найзмрачнейшай лігі ў 1 сезоне]]></entry>
+    <entry id="achievement_season_1_league_5_completed" arena_priority="1"><![CDATA[Найзмрачнейшая ліга 1 сезон]]></entry>
+    <entry id="achievement_season_2_league_1" arena_priority="1"><![CDATA[Дасягнуць Лігі пачаткоўцаў у 2 сезоне]]></entry>
+    <entry id="achievement_season_2_league_1_completed" arena_priority="1"><![CDATA[Ліга пачаткоўцаў 2 сезон]]></entry>
+    <entry id="achievement_season_2_league_2" arena_priority="1"><![CDATA[Дасягнуць Лігі вучняў у 2 сезоне]]></entry>
+    <entry id="achievement_season_2_league_2_completed" arena_priority="1"><![CDATA[Ліга вучняў 2 сезон]]></entry>
+    <entry id="achievement_season_2_league_3" arena_priority="1"><![CDATA[Дасягнуць Лігі ветэранаў у 2 сезоне]]></entry>
+    <entry id="achievement_season_2_league_3_completed" arena_priority="1"><![CDATA[Ліга ветэранаў 2 сезон]]></entry>
+    <entry id="achievement_season_2_league_4" arena_priority="1"><![CDATA[Дасягнуць Лігі чэмпіёнаў у 2 сезоне]]></entry>
+    <entry id="achievement_season_2_league_4_completed" arena_priority="1"><![CDATA[Ліга чэмпіёнаў 2 сезон]]></entry>
+    <entry id="achievement_season_2_league_5" arena_priority="1"><![CDATA[Дасягнуць Найзмрачнейшай лігі ў 2 сезоне]]></entry>
+    <entry id="achievement_season_2_league_5_completed" arena_priority="1"><![CDATA[Найзмрачнейшая ліга 2 сезон]]></entry>
+    <entry id="achievement_season_x_league_1" arena_priority="1"><![CDATA[Дасягнуць Лігі пачаткоўцаў у сезоне %d]]></entry>
+    <entry id="achievement_season_x_league_1_completed" arena_priority="1"><![CDATA[Ліга пачаткоўцаў сезон %d]]></entry>
+    <entry id="achievement_season_x_league_2" arena_priority="1"><![CDATA[Дасягнуць Лігі вучняў у сезоне %d]]></entry>
+    <entry id="achievement_season_x_league_2_completed" arena_priority="1"><![CDATA[Ліга вучняў сезон %d]]></entry>
+    <entry id="achievement_season_x_league_3" arena_priority="1"><![CDATA[Дасягнуць Лігі ветэранаў у сезоне %d]]></entry>
+    <entry id="achievement_season_x_league_3_completed" arena_priority="1"><![CDATA[Ліга ветэранаў сезон %d]]></entry>
+    <entry id="achievement_season_x_league_4" arena_priority="1"><![CDATA[Дасягнуць Лігі чэмпіёнаў у сезоне %d]]></entry>
+    <entry id="achievement_season_x_league_4_completed" arena_priority="1"><![CDATA[Ліга чэмпіёнаў сезон %d]]></entry>
+    <entry id="achievement_season_x_league_5" arena_priority="1"><![CDATA[Дасягнуць Найзмрачнейшай лігі ў сезоне %d]]></entry>
+    <entry id="achievement_season_x_league_5_completed" arena_priority="1"><![CDATA[Найзмрачнейшая ліга сезон %d]]></entry>
+    <entry id="str_replay_combat_ans_cancel" arena_priority="1"><![CDATA[Адхіліць]]></entry>
+    <entry id="str_replay_combat_ans_practice" arena_priority="1"><![CDATA[Практыка]]></entry>
+    <entry id="str_replay_combat_ans_tutorial" arena_priority="1"><![CDATA[Інструктаж]]></entry>
+    <entry id="str_replay_combat_title" arena_priority="1"><![CDATA[Хочаце згуляць трэніровачны матч?]]></entry>
+    <entry id="str_match_player_name" arena_priority="1"><![CDATA[Гулец]]></entry>
+    <entry id="str_circus_offline_ans_continue" arena_priority="1"><![CDATA[Працягнуць]]></entry>
+    <entry id="str_circus_offline_ans_cancel" arena_priority="1"><![CDATA[Адхіліць]]></entry>
+    <entry id="str_circus_went_offline" arena_priority="1"><![CDATA[Вы страцілі злучэнне з серверам. Інтэрнэт-функцыі і ўзнагароды будуць адключаны, пакуль вы не падключыцеся зноў.]]></entry>
+    <entry id="str_circus_access_offline_building_format" arena_priority="1"><![CDATA[Вы павінны мець злучэнне з серверам для доступу да %s]]></entry>
+    <entry id="str_circus_offline_match_popup" arena_priority="1"><![CDATA[Зараз вы па-за сеткай. Вы будзеце супрацьстаяць апанентам, якія не з'яўляюцца людзьмі, і не атрымаеце ўзнагароды за гэты матч. Вы ўпэўнены?]]></entry>
+    <entry id="str_results_prestige_reward_max_level" arena_priority="1"><![CDATA[Ваш прэстыж не можа расці далей!]]></entry>
+    <entry id="str_direct_challenge_switch_mode_0" arena_priority="1"><![CDATA[Выкарыстаць код Steam]]></entry>
+    <entry id="str_direct_challenge_switch_mode_1" arena_priority="1"><![CDATA[Выкарыстаць спіс сяброў]]></entry>
+    <entry id="str_direct_challenge_opponent_invite" arena_priority="1"><![CDATA[Запрасіць суперніка]]></entry>
+    <entry id="str_direct_challenge_opponent_lobby" arena_priority="1"><![CDATA[Лобі]]></entry>
+    <entry id="str_direct_challenge_user" arena_priority="1"><![CDATA[Ваш Steam ID]]></entry>
+    <entry id="str_direct_challenge_opponent_invite_empty" arena_priority="1"><![CDATA[Steam ID...]]></entry>
+    <entry id="str_direct_challenge_opponent_lobby_empty" arena_priority="1"><![CDATA[Лобі ID...]]></entry>
+    <entry id="str_direct_challenge_user_tutorial" arena_priority="1"><![CDATA[Ваш Steam ID быў скапіраваны ў буфер абмену. Вы можаце адправіць яго іншым гульцам.]]></entry>
+    <entry id="str_direct_challenge_opponent_lobby_tutorial_copy" arena_priority="1"><![CDATA[Ваш Лобі ID быў скапіраваны ў буфер абмену. Адпраўце яго запрошанаму гульцу для ўдзелу ў прамым спаборніцтве.]]></entry>
+    <entry id="str_direct_challenge_opponent_lobby_tutorial_paste" arena_priority="1"><![CDATA[Спроба падключыцца да лобі...]]></entry>
+    <entry id="str_direct_challenge_paste_tooltip" arena_priority="1"><![CDATA[Уставіць ID з буфера абмену]]></entry>
+    <entry id="str_direct_challenge_copy_tooltip" arena_priority="1"><![CDATA[Скапіраваць ID у буфер абмену]]></entry>
+    <entry id="banner_piece_lovestruck_aura" arena_priority="1"><![CDATA[Аўра закаханага]]></entry>
+    <entry id="banner_piece_lovestruck_crest" arena_priority="1"><![CDATA[Герб закаханага]]></entry>
+    <entry id="banner_piece_lovestruck_pole" arena_priority="1"><![CDATA[Калок закаханага]]></entry>
+    <entry id="banner_piece_lovestruck_headpiece" arena_priority="1"><![CDATA[Галаўны ўбор закаханага]]></entry>
+    <entry id="banner_piece_lovestruck_ornament" arena_priority="1"><![CDATA[Аздоба закаханага]]></entry>
+    <entry id="banner_piece_lovestruck_trappings" arena_priority="1"><![CDATA[Атрыбуты закаханага]]></entry>
+    <entry id="banner_piece_deep_aura" arena_priority="1"><![CDATA[Аўра Глыбінных Стварэнняў]]></entry>
+    <entry id="banner_piece_deep_crest" arena_priority="1"><![CDATA[Герб Глыбінных Стварэнняў]]></entry>
+    <entry id="banner_piece_deep_pole" arena_priority="1"><![CDATA[Калок Глыбінных Стварэнняў]]></entry>
+    <entry id="banner_piece_deep_headpiece" arena_priority="1"><![CDATA[Галаўны ўбор Глыбінных Стварэнняў]]></entry>
+    <entry id="banner_piece_deep_ornament" arena_priority="1"><![CDATA[Аздоба Глыбінных Стварэнняў]]></entry>
+    <entry id="banner_piece_deep_trappings" arena_priority="1"><![CDATA[Атрыбуты Глыбінных Стварэнняў]]></entry>
+    <entry id="banner_piece_fanatics_aura" arena_priority="1"><![CDATA[Аўра фанатыка]]></entry>
+    <entry id="banner_piece_fanatics_crest" arena_priority="1"><![CDATA[Герб фанатыка]]></entry>
+    <entry id="banner_piece_fanatics_pole" arena_priority="1"><![CDATA[Калок фанатыка]]></entry>
+    <entry id="banner_piece_fanatics_headpiece" arena_priority="1"><![CDATA[Галаўны ўбор фанатыка]]></entry>
+    <entry id="banner_piece_fanatics_ornament" arena_priority="1"><![CDATA[Аздоба фанатыка]]></entry>
+    <entry id="banner_piece_fanatics_trappings" arena_priority="1"><![CDATA[Атрыбуты фанатыка]]></entry>
+  </language>
+</root>
